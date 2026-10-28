@@ -1,0 +1,46 @@
+{
+  "created_at_utc": "2026-10-13T21:28:12.703243+00:00",
+  "runway_events": "outputs/san_multimonth/2026_03/opensky/terminal_entry/KSAN_20260301T0800_20260401T0700_terminal_ring_entry_events.csv",
+  "schedule_matches": "outputs/san_multimonth/2026_03/arrival_linkage/opensky_bts_arrival_matches.csv",
+  "departure_blocks": "outputs/san_multimonth/2026_03/departure_layer/departure_blocks_2026_03.csv",
+  "departure_features": "outputs/san_multimonth/2026_03/departure_layer/runway_hour_departure_features.csv",
+  "weather_hourly": "outputs/san_multimonth/2026_03/weather/san_weather_hourly.csv",
+  "window_scope": "all",
+  "min_arrivals": 10,
+  "max_windows": null,
+  "replications": 30,
+  "minimum_rot_sec": 20.0,
+  "policies": [
+    "ObservedRunwayOrder",
+    "DemandFCFS",
+    "CompletionGreedy",
+    "CPSDelay_m2K8",
+    "ScheduleAware_m2K8"
+  ],
+  "demand_proxies": [
+    "terminal_30nm_entry"
+  ],
+  "events_total": 10469,
+  "events_schedule_usable": 7650,
+  "windows": 510,
+  "weather_window_coverage_rate": 0.9901960784313726,
+  "validation": {
+    "negative_wait_violations": 0,
+    "same_aircraft_set_violations": 0,
+    "cps_shift_violations": 0,
+    "same_sequence_monotonicity_violations": 0,
+    "empty_block_equivalence_violations": 0,
+    "decomposition_identity_violations": 0,
+    "model_independent_policy_sequence_violations": 0,
+    "windows": 510,
+    "replications": 30,
+    "selection_models": [
+      "arrival_only",
+      "departure_blocked"
+    ],
+    "evaluation_models": [
+      "arrival_only",
+      "departure_blocked"
+    ]
+  }
+}

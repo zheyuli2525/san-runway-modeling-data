@@ -1,0 +1,481 @@
+month,departure_pressure,selection_model,evaluation_model,policy,policy_display_name,metric,estimate,ci_lower_95,ci_upper_95,operating_date_clusters,bootstrap_reps,seed
+2026_02,all,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,1888.7568807339449,1601.9064864350653,2167.1348206997386,28,5000,8352026
+2026_02,all,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,174.0730886850153,158.52675290010882,190.64739419780423,28,5000,8352026
+2026_02,all,arrival_only,arrival_only,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,170.12844036697248,155.49173582887698,185.20055203802198,28,5000,8352026
+2026_02,all,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,3564.592354740061,3231.683580328681,3906.013905667295,28,5000,8352026
+2026_02,all,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,1899.4127675840978,1611.9545756503717,2180.3853389104174,28,5000,8352026
+2026_02,all,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,3500.1922782874617,3133.1904277362673,3884.6583162036313,28,5000,8352026
+2026_02,all,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,1781.4699541284403,1539.4617503726847,2044.8302513079218,28,5000,8352026
+2026_02,all,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,1782.2996941896024,1538.453255964665,2047.4690426912355,28,5000,8352026
+2026_02,all,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,5158.891055045871,4732.582542236201,5628.429283069506,28,5000,8352026
+2026_02,all,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,3517.016743119266,3143.9886713972974,3905.9255060228047,28,5000,8352026
+2026_02,all,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,2385.8160550458715,2077.964644008134,2683.0649937937437,28,5000,8352026
+2026_02,all,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,263.922247706422,231.5591650982428,297.5954846469411,28,5000,8352026
+2026_02,all,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,170.12844036697248,155.49173582887698,185.20055203802198,28,5000,8352026
+2026_02,all,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,3564.592354740061,3231.683580328681,3906.013905667295,28,5000,8352026
+2026_02,all,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,2421.4694189602446,2106.1174792803245,2726.308047620435,28,5000,8352026
+2026_02,all,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,3507.476605504587,3144.217692102713,3873.93037117737,28,5000,8352026
+2026_02,all,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,1566.9329510703362,1380.9356733145278,1762.442706960603,28,5000,8352026
+2026_02,all,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,1782.2996941896024,1538.453255964665,2047.4690426912355,28,5000,8352026
+2026_02,all,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,5158.891055045871,4732.582542236201,5628.429283069506,28,5000,8352026
+2026_02,all,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,3480.432568807339,3116.172719739692,3849.011264978527,28,5000,8352026
+2026_02,all,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,sequence_displacement,13.73256880733945,12.849712336323936,14.479386985563455,28,5000,8352026
+2026_02,all,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,sequence_displacement,19.077981651376145,17.771538782318597,20.403629158085252,28,5000,8352026
+2026_02,all,arrival_only,arrival_only,DemandFCFS,Demand FCFS,sequence_displacement,19.08256880733945,17.7731456855792,20.406251763544017,28,5000,8352026
+2026_02,all,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,28,5000,8352026
+2026_02,all,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,13.687155963302754,12.843257962911094,14.437770777214688,28,5000,8352026
+2026_02,all,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,sequence_displacement,13.73256880733945,12.849712336323936,14.479386985563455,28,5000,8352026
+2026_02,all,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,sequence_displacement,19.077981651376145,17.771538782318597,20.403629158085252,28,5000,8352026
+2026_02,all,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,sequence_displacement,19.08256880733945,17.7731456855792,20.406251763544017,28,5000,8352026
+2026_02,all,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,28,5000,8352026
+2026_02,all,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,13.687155963302754,12.843257962911094,14.437770777214688,28,5000,8352026
+2026_02,all,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,sequence_displacement,9.620489296636084,9.099285614768375,10.113227129983006,28,5000,8352026
+2026_02,all,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,sequence_displacement,19.27018348623853,17.951148943295404,20.59228801590566,28,5000,8352026
+2026_02,all,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,sequence_displacement,19.08256880733945,17.7731456855792,20.406251763544017,28,5000,8352026
+2026_02,all,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,28,5000,8352026
+2026_02,all,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,11.650458715596331,11.103147302553694,12.162326221622369,28,5000,8352026
+2026_02,all,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,sequence_displacement,9.620489296636084,9.099285614768375,10.113227129983006,28,5000,8352026
+2026_02,all,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,sequence_displacement,19.27018348623853,17.951148943295404,20.59228801590566,28,5000,8352026
+2026_02,all,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,sequence_displacement,19.08256880733945,17.7731456855792,20.406251763544017,28,5000,8352026
+2026_02,all,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,28,5000,8352026
+2026_02,all,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,11.650458715596331,11.103147302553694,12.162326221622369,28,5000,8352026
+2026_02,all,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1610.9426171435503,1495.9560582664128,1740.4730933451833,28,5000,8352026
+2026_02,all,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1658.210921506909,1540.3259144631995,1789.2312211012113,28,5000,8352026
+2026_02,all,arrival_only,arrival_only,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1658.1867876066285,1540.2710623294217,1789.128688326081,28,5000,8352026
+2026_02,all,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1575.5037317986666,1459.863446556325,1704.6867204176642,28,5000,8352026
+2026_02,all,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1607.8987878528885,1492.91634889398,1737.139231826228,28,5000,8352026
+2026_02,all,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1570.2894619519373,1455.3069037363293,1699.1228304218423,28,5000,8352026
+2026_02,all,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1617.9776740161378,1498.0378149134808,1750.7710027351525,28,5000,8352026
+2026_02,all,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1617.8453624046726,1497.5988561271886,1750.7043981680458,28,5000,8352026
+2026_02,all,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1538.6371362911823,1421.1144385273117,1670.6577175866132,28,5000,8352026
+2026_02,all,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1566.5625643977346,1451.5883673057374,1695.3494702827393,28,5000,8352026
+2026_02,all,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1601.3421894692397,1486.3072684429408,1729.9804426030591,28,5000,8352026
+2026_02,all,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1656.5236246634122,1538.3453849508649,1787.8270850893457,28,5000,8352026
+2026_02,all,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1658.1867876066285,1540.2710623294217,1789.128688326081,28,5000,8352026
+2026_02,all,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1575.5037317986666,1459.863446556325,1704.6867204176642,28,5000,8352026
+2026_02,all,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1588.5220500686482,1474.0224003900532,1716.6952653346384,28,5000,8352026
+2026_02,all,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1571.7240026301263,1457.0407397519114,1700.177142537299,28,5000,8352026
+2026_02,all,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1621.1295094235065,1502.4682498878597,1753.3357739712574,28,5000,8352026
+2026_02,all,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1617.8453624046726,1497.5988561271886,1750.7043981680458,28,5000,8352026
+2026_02,all,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1538.6371362911823,1421.1144385273117,1670.6577175866132,28,5000,8352026
+2026_02,all,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1556.6086476567307,1442.1088997452846,1685.1506288922824,28,5000,8352026
+2026_02,low,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,2020.5397701149425,1503.0579680376948,2534.160977564102,26,5000,8352026
+2026_02,low,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,178.66091954022988,146.02487285457283,218.9616492537313,26,5000,8352026
+2026_02,low,arrival_only,arrival_only,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,173.5894252873563,145.41092995169083,205.36130174291938,26,5000,8352026
+2026_02,low,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,3732.9445977011487,3112.5160314294208,4375.043887666727,26,5000,8352026
+2026_02,low,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,2028.1629885057469,1506.2262520424836,2543.7872092731827,26,5000,8352026
+2026_02,low,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,2834.9406896551727,2310.4058675416018,3345.1773844537815,26,5000,8352026
+2026_02,low,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,996.5871264367815,873.2224696812196,1131.6422647849463,26,5000,8352026
+2026_02,low,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,1000.0772413793104,874.94692523607,1138.0022847204273,26,5000,8352026
+2026_02,low,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,4564.632413793103,3934.1959118102477,5257.846113202085,26,5000,8352026
+2026_02,low,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,2840.2588505747126,2314.1905078880145,3347.3083441558438,26,5000,8352026
+2026_02,low,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,2333.434022988506,1770.2762740973074,2895.528934503161,26,5000,8352026
+2026_02,low,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,208.44689655172414,172.3560765639589,251.82412384259254,26,5000,8352026
+2026_02,low,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,173.5894252873563,145.41092995169083,205.36130174291938,26,5000,8352026
+2026_02,low,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,3732.9445977011487,3112.5160314294208,4375.043887666727,26,5000,8352026
+2026_02,low,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,2357.475632183908,1805.348069562017,2907.982911255411,26,5000,8352026
+2026_02,low,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,2967.5452873563218,2396.066575097697,3549.7585920185693,26,5000,8352026
+2026_02,low,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,934.7285057471266,826.0209979423869,1052.9017595998878,26,5000,8352026
+2026_02,low,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,1000.0772413793104,874.94692523607,1138.0022847204273,26,5000,8352026
+2026_02,low,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,4564.632413793103,3934.1959118102477,5257.846113202085,26,5000,8352026
+2026_02,low,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,2961.2466666666664,2401.56201879085,3531.110840310577,26,5000,8352026
+2026_02,low,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,sequence_displacement,13.842758620689654,12.546288267288269,15.2,26,5000,8352026
+2026_02,low,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,sequence_displacement,19.6,17.88156194950088,21.53868613138686,26,5000,8352026
+2026_02,low,arrival_only,arrival_only,DemandFCFS,Demand FCFS,sequence_displacement,19.55862068965517,17.85964226973684,21.45627530364372,26,5000,8352026
+2026_02,low,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,26,5000,8352026
+2026_02,low,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,13.924137931034483,12.53873363095238,15.342784026996625,26,5000,8352026
+2026_02,low,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,sequence_displacement,13.842758620689654,12.546288267288269,15.2,26,5000,8352026
+2026_02,low,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,sequence_displacement,19.6,17.88156194950088,21.53868613138686,26,5000,8352026
+2026_02,low,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,sequence_displacement,19.55862068965517,17.85964226973684,21.45627530364372,26,5000,8352026
+2026_02,low,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,26,5000,8352026
+2026_02,low,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,13.924137931034483,12.53873363095238,15.342784026996625,26,5000,8352026
+2026_02,low,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,sequence_displacement,11.102528735632184,10.155946899224807,12.045495125905953,26,5000,8352026
+2026_02,low,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,sequence_displacement,19.691954022988504,17.96643509127789,21.62719576719577,26,5000,8352026
+2026_02,low,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,sequence_displacement,19.55862068965517,17.85964226973684,21.45627530364372,26,5000,8352026
+2026_02,low,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,26,5000,8352026
+2026_02,low,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,12.475402298850575,11.52710234741784,13.517911889944317,26,5000,8352026
+2026_02,low,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,sequence_displacement,11.102528735632184,10.155946899224807,12.045495125905953,26,5000,8352026
+2026_02,low,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,sequence_displacement,19.691954022988504,17.96643509127789,21.62719576719577,26,5000,8352026
+2026_02,low,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,sequence_displacement,19.55862068965517,17.85964226973684,21.45627530364372,26,5000,8352026
+2026_02,low,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,26,5000,8352026
+2026_02,low,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,12.475402298850575,11.52710234741784,13.517911889944317,26,5000,8352026
+2026_02,low,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1834.1178757013324,1552.6759101940822,2196.7284564686315,26,5000,8352026
+2026_02,low,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1895.9205572829674,1601.4705683059033,2272.1053274474843,26,5000,8352026
+2026_02,low,arrival_only,arrival_only,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1895.952670135632,1601.3778404578022,2272.109582586285,26,5000,8352026
+2026_02,low,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1797.673393110909,1517.3084790700898,2161.8230709955856,26,5000,8352026
+2026_02,low,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1831.484142977434,1550.452611969243,2193.394478998377,26,5000,8352026
+2026_02,low,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1810.0726711094183,1529.5751005309858,2170.9854201552416,26,5000,8352026
+2026_02,low,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1871.9675672482217,1577.7207866714293,2248.6452433772615,26,5000,8352026
+2026_02,low,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1871.74832517229,1577.4294135300431,2248.6483245385243,26,5000,8352026
+2026_02,low,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1774.3357339227734,1492.6275458660386,2138.456290333945,26,5000,8352026
+2026_02,low,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1806.9809885514499,1526.9523420491582,2167.7069398307326,26,5000,8352026
+2026_02,low,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1828.7972853769195,1547.716155038991,2190.025866023482,26,5000,8352026
+2026_02,low,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1894.9062824227137,1600.491446703852,2271.223068040611,26,5000,8352026
+2026_02,low,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1895.952670135632,1601.3778404578022,2272.109582586285,26,5000,8352026
+2026_02,low,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1797.673393110909,1517.3084790700898,2161.8230709955856,26,5000,8352026
+2026_02,low,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1819.2338661395784,1539.1213686744923,2179.0265396368536,26,5000,8352026
+2026_02,low,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1810.1619233141175,1529.8297227047294,2170.9031655649496,26,5000,8352026
+2026_02,low,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1873.4911968253084,1579.1216193335874,2250.3570747367266,26,5000,8352026
+2026_02,low,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1871.74832517229,1577.4294135300431,2248.6483245385243,26,5000,8352026
+2026_02,low,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1774.3357339227734,1492.6275458660386,2138.456290333945,26,5000,8352026
+2026_02,low,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1798.9505901198638,1519.6851952541817,2158.158509978082,26,5000,8352026
+2026_02,medium,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,2173.654252873563,1601.8142406944012,2724.902839398951,28,5000,8352026
+2026_02,medium,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,188.14436781609197,160.97599010731054,215.60542352703789,28,5000,8352026
+2026_02,medium,arrival_only,arrival_only,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,181.64528735632183,156.13504060388053,205.79999211711709,28,5000,8352026
+2026_02,medium,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,3740.9765517241376,3089.7116880996123,4373.008727289377,28,5000,8352026
+2026_02,medium,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,2187.5089655172414,1617.147578632746,2743.0381071079187,28,5000,8352026
+2026_02,medium,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,3726.6862068965515,3173.627139004975,4243.914174472575,28,5000,8352026
+2026_02,medium,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,1719.1737931034484,1558.3479976349686,1878.8260388471176,28,5000,8352026
+2026_02,medium,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,1711.9009195402298,1553.2810054270549,1873.0307273542526,28,5000,8352026
+2026_02,medium,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,5247.187586206896,4586.538513939394,5866.302040719697,28,5000,8352026
+2026_02,medium,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,3742.8666666666663,3188.5251691176472,4254.424010042118,28,5000,8352026
+2026_02,medium,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,2696.7289655172412,2129.3311307204235,3235.476148909986,28,5000,8352026
+2026_02,medium,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,273.86367816091956,239.69125398089173,311.63320235501607,28,5000,8352026
+2026_02,medium,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,181.64528735632183,156.13504060388053,205.79999211711709,28,5000,8352026
+2026_02,medium,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,3740.9765517241376,3089.7116880996123,4373.008727289377,28,5000,8352026
+2026_02,medium,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,2697.1036781609196,2136.212475377179,3227.9239716224038,28,5000,8352026
+2026_02,medium,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,3773.650804597701,3215.452514958989,4288.633127758913,28,5000,8352026
+2026_02,medium,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,1548.5708045977012,1421.743796684386,1671.4668333333334,28,5000,8352026
+2026_02,medium,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,1711.9009195402298,1553.2810054270549,1873.0307273542526,28,5000,8352026
+2026_02,medium,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,5247.187586206896,4586.538513939394,5866.302040719697,28,5000,8352026
+2026_02,medium,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,3733.013103448276,3172.2144729072184,4249.456377460195,28,5000,8352026
+2026_02,medium,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,sequence_displacement,14.074942528735631,12.935533773250473,15.023087309085183,28,5000,8352026
+2026_02,medium,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,sequence_displacement,19.50344827586207,17.655115417497864,21.131884681583475,28,5000,8352026
+2026_02,medium,arrival_only,arrival_only,DemandFCFS,Demand FCFS,sequence_displacement,19.53103448275862,17.673650430807104,21.16905009603073,28,5000,8352026
+2026_02,medium,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,28,5000,8352026
+2026_02,medium,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,13.89471264367816,12.851144225131913,14.767296829489567,28,5000,8352026
+2026_02,medium,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,sequence_displacement,14.074942528735631,12.935533773250473,15.023087309085183,28,5000,8352026
+2026_02,medium,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,sequence_displacement,19.50344827586207,17.655115417497864,21.131884681583475,28,5000,8352026
+2026_02,medium,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,sequence_displacement,19.53103448275862,17.673650430807104,21.16905009603073,28,5000,8352026
+2026_02,medium,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,28,5000,8352026
+2026_02,medium,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,13.89471264367816,12.851144225131913,14.767296829489567,28,5000,8352026
+2026_02,medium,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,sequence_displacement,9.362758620689656,8.607382786069653,10.034674353424354,28,5000,8352026
+2026_02,medium,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,sequence_displacement,19.707586206896554,17.869725383473526,21.326735294117647,28,5000,8352026
+2026_02,medium,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,sequence_displacement,19.53103448275862,17.673650430807104,21.16905009603073,28,5000,8352026
+2026_02,medium,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,28,5000,8352026
+2026_02,medium,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,11.549425287356321,10.773224997466816,12.25962884238064,28,5000,8352026
+2026_02,medium,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,sequence_displacement,9.362758620689656,8.607382786069653,10.034674353424354,28,5000,8352026
+2026_02,medium,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,sequence_displacement,19.707586206896554,17.869725383473526,21.326735294117647,28,5000,8352026
+2026_02,medium,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,sequence_displacement,19.53103448275862,17.673650430807104,21.16905009603073,28,5000,8352026
+2026_02,medium,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,28,5000,8352026
+2026_02,medium,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,11.549425287356321,10.773224997466816,12.25962884238064,28,5000,8352026
+2026_02,medium,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1538.0268558119074,1366.5064203887857,1817.6694473154037,28,5000,8352026
+2026_02,medium,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1593.4904177762999,1415.7502378511288,1872.4849753379171,28,5000,8352026
+2026_02,medium,arrival_only,arrival_only,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1593.6028019162013,1416.060584806808,1872.4023085826993,28,5000,8352026
+2026_02,medium,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1503.8705332655438,1330.9072037386911,1786.1907999675554,28,5000,8352026
+2026_02,medium,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1534.623274577025,1362.6407654076781,1814.5937868614826,28,5000,8352026
+2026_02,medium,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1496.139641726919,1324.7370386419552,1778.0206233791664,28,5000,8352026
+2026_02,medium,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1551.4151212842535,1371.0715495813974,1833.7961809881258,28,5000,8352026
+2026_02,medium,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1551.5313934265537,1371.4298835139305,1833.7614687745777,28,5000,8352026
+2026_02,medium,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1466.3742420485917,1293.069229567843,1752.9115826206519,28,5000,8352026
+2026_02,medium,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1491.7218430861813,1319.896738932364,1773.68893260584,28,5000,8352026
+2026_02,medium,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1527.645400874723,1356.2522691511833,1807.1813488178727,28,5000,8352026
+2026_02,medium,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1591.6093920359265,1413.659710127785,1870.8064662414758,28,5000,8352026
+2026_02,medium,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1593.6028019162013,1416.060584806808,1872.4023085826993,28,5000,8352026
+2026_02,medium,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1503.8705332655438,1330.9072037386911,1786.1907999675554,28,5000,8352026
+2026_02,medium,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1514.594728609484,1343.9698840094927,1794.6770870021023,28,5000,8352026
+2026_02,medium,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1497.8903357095085,1326.5363231400636,1780.4487288878802,28,5000,8352026
+2026_02,medium,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1555.7967909713782,1375.8669421514674,1837.9900895160777,28,5000,8352026
+2026_02,medium,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1551.5313934265537,1371.4298835139305,1833.7614687745777,28,5000,8352026
+2026_02,medium,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1466.3742420485917,1293.069229567843,1752.9115826206519,28,5000,8352026
+2026_02,medium,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1483.1184840974925,1311.8712841493862,1764.2779225172699,28,5000,8352026
+2026_02,high,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,1474.930593607306,959.6925951851429,1968.5174257842882,28,5000,8352026
+2026_02,high,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,155.5417808219178,131.38104255178536,175.37339667792796,28,5000,8352026
+2026_02,high,arrival_only,arrival_only,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,155.25319634703197,131.16752805522572,175.1700191616766,28,5000,8352026
+2026_02,high,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,3222.217123287671,2419.5995647900168,3963.160115911485,28,5000,8352026
+2026_02,high,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,1485.4214611872148,961.083007878365,1984.9686853448272,28,5000,8352026
+2026_02,high,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,3935.9447488584474,3073.724555619541,4733.540665070976,28,5000,8352026
+2026_02,high,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,2622.846347031964,2143.481443418328,3089.381714805683,28,5000,8352026
+2026_02,high,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,2629.0810502283107,2152.383507327372,3092.2529392434276,28,5000,8352026
+2026_02,high,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,5661.387671232876,4543.693630155987,6690.389832535367,28,5000,8352026
+2026_02,high,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,3964.8363013698627,3081.808859737485,4782.758156565656,28,5000,8352026
+2026_02,high,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,2129.05593607306,1494.9359187682278,2721.0849492412353,28,5000,8352026
+2026_02,high,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,309.1442922374429,239.46632575757576,375.55096905960374,28,5000,8352026
+2026_02,high,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,155.25319634703197,131.16752805522572,175.1700191616766,28,5000,8352026
+2026_02,high,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,3222.217123287671,2419.5995647900168,3963.160115911485,28,5000,8352026
+2026_02,high,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,2211.278538812785,1541.6960753105589,2821.7708440034144,28,5000,8352026
+2026_02,high,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,3779.358675799087,2947.4601932502715,4547.464959295719,28,5000,8352026
+2026_02,high,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,2213.0436073059363,1871.521130314697,2526.289239624844,28,5000,8352026
+2026_02,high,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,2629.0810502283107,2152.383507327372,3092.2529392434276,28,5000,8352026
+2026_02,high,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,5661.387671232876,4543.693630155987,6690.389832535367,28,5000,8352026
+2026_02,high,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,3745.211872146119,2905.508840350223,4515.912000610703,28,5000,8352026
+2026_02,high,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,sequence_displacement,13.28310502283105,11.775413105413106,14.451142107550917,28,5000,8352026
+2026_02,high,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,sequence_displacement,18.136986301369863,15.51998449612403,20.656861007462684,28,5000,8352026
+2026_02,high,arrival_only,arrival_only,DemandFCFS,Demand FCFS,sequence_displacement,18.164383561643834,15.552232835820895,20.671008869179598,28,5000,8352026
+2026_02,high,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,28,5000,8352026
+2026_02,high,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,13.245662100456622,11.780414122914122,14.415530064444637,28,5000,8352026
+2026_02,high,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,sequence_displacement,13.28310502283105,11.775413105413106,14.451142107550917,28,5000,8352026
+2026_02,high,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,sequence_displacement,18.136986301369863,15.51998449612403,20.656861007462684,28,5000,8352026
+2026_02,high,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,sequence_displacement,18.164383561643834,15.552232835820895,20.671008869179598,28,5000,8352026
+2026_02,high,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,28,5000,8352026
+2026_02,high,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,13.245662100456622,11.780414122914122,14.415530064444637,28,5000,8352026
+2026_02,high,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,sequence_displacement,8.404566210045662,7.73129853219697,8.923646949042519,28,5000,8352026
+2026_02,high,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,sequence_displacement,18.41689497716895,15.71568242790074,20.98936270542281,28,5000,8352026
+2026_02,high,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,sequence_displacement,18.164383561643834,15.552232835820895,20.671008869179598,28,5000,8352026
+2026_02,high,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,28,5000,8352026
+2026_02,high,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,10.93150684931507,9.979030704986489,11.672699839486356,28,5000,8352026
+2026_02,high,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,sequence_displacement,8.404566210045662,7.73129853219697,8.923646949042519,28,5000,8352026
+2026_02,high,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,sequence_displacement,18.41689497716895,15.71568242790074,20.98936270542281,28,5000,8352026
+2026_02,high,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,sequence_displacement,18.164383561643834,15.552232835820895,20.671008869179598,28,5000,8352026
+2026_02,high,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,28,5000,8352026
+2026_02,high,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,10.93150684931507,9.979030704986489,11.672699839486356,28,5000,8352026
+2026_02,high,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1461.712294555947,1375.884525644177,1551.1066630832408,28,5000,8352026
+2026_02,high,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1486.4066465302644,1394.8333563910892,1578.5191146470718,28,5000,8352026
+2026_02,high,arrival_only,arrival_only,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1486.1910681436586,1394.7106618476653,1578.192714273071,28,5000,8352026
+2026_02,high,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1425.9983406824176,1337.8951499928407,1516.8084038295224,28,5000,8352026
+2026_02,high,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1458.6184654689241,1372.1338548674858,1549.1240119939596,28,5000,8352026
+2026_02,high,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1405.7905482861347,1315.6187532026668,1494.5482332324125,28,5000,8352026
+2026_02,high,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1431.8340824234738,1335.7414427327492,1526.254249988971,28,5000,8352026
+2026_02,high,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1431.5412247370202,1335.462562580015,1525.6198915063464,28,5000,8352026
+2026_02,high,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1376.3208555281335,1281.5017353954015,1469.9796438257822,28,5000,8352026
+2026_02,high,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1402.1189554106559,1311.677508842462,1491.6499975939091,28,5000,8352026
+2026_02,high,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1448.637021247262,1362.066700235622,1538.0949966437308,28,5000,8352026
+2026_02,high,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1484.243339429759,1392.0610971459728,1576.425454003392,28,5000,8352026
+2026_02,high,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1486.1910681436586,1394.7106618476653,1578.192714273071,28,5000,8352026
+2026_02,high,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1425.9983406824176,1337.8951499928407,1516.8084038295224,28,5000,8352026
+2026_02,high,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1432.811421858333,1345.8617508705875,1523.7967407502051,28,5000,8352026
+2026_02,high,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1408.2471752623924,1318.325839164493,1497.7893617406173,28,5000,8352026
+2026_02,high,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1435.3815608091045,1339.7765446446592,1528.896304842244,28,5000,8352026
+2026_02,high,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1431.5412247370202,1335.462562580015,1525.6198915063464,28,5000,8352026
+2026_02,high,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1376.3208555281335,1281.5017353954015,1469.9796438257822,28,5000,8352026
+2026_02,high,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1388.9133877864244,1298.648930511185,1478.8407394194505,28,5000,8352026
+2026_03,all,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,1677.8102614379086,1469.0600796954952,1886.7933189236949,31,5000,8352026
+2026_03,all,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,188.1056862745098,176.13633217628404,200.81846730035682,31,5000,8352026
+2026_03,all,arrival_only,arrival_only,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,185.60607843137257,174.20141772223906,197.65774080715155,31,5000,8352026
+2026_03,all,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,3417.558300653595,3164.558796770201,3677.9922316877532,31,5000,8352026
+2026_03,all,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,1686.102026143791,1475.4186510871675,1895.5430859905605,31,5000,8352026
+2026_03,all,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,3650.35045751634,3333.5569754901962,3958.9588454688533,31,5000,8352026
+2026_03,all,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,2131.724183006536,1914.2681585886373,2358.876719160105,31,5000,8352026
+2026_03,all,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,2137.8309150326795,1920.5554090033263,2366.249010519395,31,5000,8352026
+2026_03,all,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,5356.708627450981,4990.750138793956,5729.47963170709,31,5000,8352026
+2026_03,all,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,3648.424183006536,3332.4103195288235,3957.8360781685296,31,5000,8352026
+2026_03,all,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,2273.8470588235296,2045.36777191865,2491.5375711974107,31,5000,8352026
+2026_03,all,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,312.33287581699346,281.5402401362096,343.95884663580944,31,5000,8352026
+2026_03,all,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,185.60607843137257,174.20141772223906,197.65774080715155,31,5000,8352026
+2026_03,all,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,3417.558300653595,3164.558796770201,3677.9922316877532,31,5000,8352026
+2026_03,all,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,2274.8703267973856,2048.4645569381596,2491.647991159135,31,5000,8352026
+2026_03,all,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,3596.438039215686,3301.6307358196686,3874.7525968801883,31,5000,8352026
+2026_03,all,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,1830.577254901961,1671.374777894491,1993.1401734980416,31,5000,8352026
+2026_03,all,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,2137.8309150326795,1920.5554090033263,2366.249010519395,31,5000,8352026
+2026_03,all,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,5356.708627450981,4990.750138793956,5729.47963170709,31,5000,8352026
+2026_03,all,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,3518.814901960784,3230.016318532267,3796.5337507995614,31,5000,8352026
+2026_03,all,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,sequence_displacement,14.657254901960785,13.922819253438114,15.395382179744063,31,5000,8352026
+2026_03,all,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,sequence_displacement,19.474509803921567,18.405451535127877,20.554762620192307,31,5000,8352026
+2026_03,all,arrival_only,arrival_only,DemandFCFS,Demand FCFS,sequence_displacement,19.55686274509804,18.473360166964817,20.669278639323434,31,5000,8352026
+2026_03,all,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,31,5000,8352026
+2026_03,all,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,14.693071895424838,13.957511701261701,15.4650651814552,31,5000,8352026
+2026_03,all,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,sequence_displacement,14.657254901960785,13.922819253438114,15.395382179744063,31,5000,8352026
+2026_03,all,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,sequence_displacement,19.474509803921567,18.405451535127877,20.554762620192307,31,5000,8352026
+2026_03,all,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,sequence_displacement,19.55686274509804,18.473360166964817,20.669278639323434,31,5000,8352026
+2026_03,all,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,31,5000,8352026
+2026_03,all,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,14.693071895424838,13.957511701261701,15.4650651814552,31,5000,8352026
+2026_03,all,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,sequence_displacement,9.46562091503268,9.102732535480188,9.822358978700986,31,5000,8352026
+2026_03,all,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,sequence_displacement,19.698300653594767,18.613044049967126,20.81616326935476,31,5000,8352026
+2026_03,all,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,sequence_displacement,19.55686274509804,18.473360166964817,20.669278639323434,31,5000,8352026
+2026_03,all,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,31,5000,8352026
+2026_03,all,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,12.218300653594772,11.630088684479707,12.827872469728474,31,5000,8352026
+2026_03,all,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,sequence_displacement,9.46562091503268,9.102732535480188,9.822358978700986,31,5000,8352026
+2026_03,all,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,sequence_displacement,19.698300653594767,18.613044049967126,20.81616326935476,31,5000,8352026
+2026_03,all,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,sequence_displacement,19.55686274509804,18.473360166964817,20.669278639323434,31,5000,8352026
+2026_03,all,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,31,5000,8352026
+2026_03,all,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,12.218300653594772,11.630088684479707,12.827872469728474,31,5000,8352026
+2026_03,all,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,2432.545600824396,2061.732064159306,2887.3705074683585,31,5000,8352026
+2026_03,all,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,2472.4224921273526,2102.676332743829,2930.6301374613777,31,5000,8352026
+2026_03,all,arrival_only,arrival_only,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,2472.049730792723,2102.2874491952616,2930.2366510737897,31,5000,8352026
+2026_03,all,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,2392.312760579495,2019.6217328385846,2849.512233950348,31,5000,8352026
+2026_03,all,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,2429.2740574362665,2058.5199693022314,2883.6808959010564,31,5000,8352026
+2026_03,all,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,2373.073854953069,1999.1667859245258,2828.692375531355,31,5000,8352026
+2026_03,all,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,2411.857648531382,2038.6506609426785,2870.1005033538427,31,5000,8352026
+2026_03,all,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,2411.054646191021,2037.525057099518,2869.2815338364107,31,5000,8352026
+2026_03,all,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,2339.2942606009256,1963.375158374652,2797.756910660962,31,5000,8352026
+2026_03,all,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,2368.890080947816,1995.2491153180906,2823.6477800253506,31,5000,8352026
+2026_03,all,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,2417.9572533288633,2045.9249986454206,2873.8144500310837,31,5000,8352026
+2026_03,all,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,2468.76297920426,2098.8644105342687,2926.7018845785656,31,5000,8352026
+2026_03,all,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,2472.049730792723,2102.2874491952616,2930.2366510737897,31,5000,8352026
+2026_03,all,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,2392.312760579495,2019.6217328385846,2849.512233950348,31,5000,8352026
+2026_03,all,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,2403.1746233203976,2031.9250195593359,2858.7655364988054,31,5000,8352026
+2026_03,all,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,2377.482572709077,2004.0249106107763,2834.7226794411345,31,5000,8352026
+2026_03,all,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,2420.002438929339,2046.6659041645412,2878.9647227433434,31,5000,8352026
+2026_03,all,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,2411.054646191021,2037.525057099518,2869.2815338364107,31,5000,8352026
+2026_03,all,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,2339.2942606009256,1963.375158374652,2797.756910660962,31,5000,8352026
+2026_03,all,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,2360.4212714127502,1987.6340469724462,2817.3511099390234,31,5000,8352026
+2026_03,low,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,2125.057647058823,1552.4388972324168,2688.9418055346387,31,5000,8352026
+2026_03,low,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,192.48372549019606,169.8294469016027,216.39335777467414,31,5000,8352026
+2026_03,low,arrival_only,arrival_only,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,189.90392156862742,168.12183094263452,212.49669231210558,31,5000,8352026
+2026_03,low,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,3909.2237254901966,3320.166196954518,4488.415867945536,31,5000,8352026
+2026_03,low,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,2142.3927450980386,1566.1559408602147,2709.6368957967547,31,5000,8352026
+2026_03,low,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,3175.9862745098035,2588.078222357476,3755.9695117491433,31,5000,8352026
+2026_03,low,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,1259.2176470588236,1124.189731311519,1403.2677984013978,31,5000,8352026
+2026_03,low,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,1258.7635294117647,1125.38093220339,1401.633449224819,31,5000,8352026
+2026_03,low,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,4931.237450980392,4308.1030596448745,5534.12002528295,31,5000,8352026
+2026_03,low,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,3194.4701960784314,2602.093878495942,3778.5781180448553,31,5000,8352026
+2026_03,low,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,2553.170392156863,1991.3862088741048,3093.5009730250476,31,5000,8352026
+2026_03,low,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,257.80823529411765,226.95304772475026,293.2579874232521,31,5000,8352026
+2026_03,low,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,189.90392156862742,168.12183094263452,212.49669231210558,31,5000,8352026
+2026_03,low,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,3909.2237254901966,3320.166196954518,4488.415867945536,31,5000,8352026
+2026_03,low,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,2493.3625490196077,1910.9443853094601,3071.4789850078387,31,5000,8352026
+2026_03,low,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,3320.9094117647064,2741.9526406684163,3875.827238496844,31,5000,8352026
+2026_03,low,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,1176.9319607843138,1058.97768478408,1298.7513634012462,31,5000,8352026
+2026_03,low,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,1258.7635294117647,1125.38093220339,1401.633449224819,31,5000,8352026
+2026_03,low,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,4931.237450980392,4308.1030596448745,5534.12002528295,31,5000,8352026
+2026_03,low,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,3225.4015686274506,2626.603561645418,3806.4444565217386,31,5000,8352026
+2026_03,low,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,sequence_displacement,14.486666666666668,13.561642030608438,15.439006955439181,31,5000,8352026
+2026_03,low,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,sequence_displacement,20.03529411764706,18.417165132924335,21.734390036272114,31,5000,8352026
+2026_03,low,arrival_only,arrival_only,DemandFCFS,Demand FCFS,sequence_displacement,20.11764705882353,18.474458852358584,21.836304634418415,31,5000,8352026
+2026_03,low,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,31,5000,8352026
+2026_03,low,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,14.453333333333333,13.49198475534029,15.461951793062905,31,5000,8352026
+2026_03,low,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,sequence_displacement,14.486666666666668,13.561642030608438,15.439006955439181,31,5000,8352026
+2026_03,low,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,sequence_displacement,20.03529411764706,18.417165132924335,21.734390036272114,31,5000,8352026
+2026_03,low,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,sequence_displacement,20.11764705882353,18.474458852358584,21.836304634418415,31,5000,8352026
+2026_03,low,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,31,5000,8352026
+2026_03,low,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,14.453333333333333,13.49198475534029,15.461951793062905,31,5000,8352026
+2026_03,low,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,sequence_displacement,10.70392156862745,9.8572294938918,11.574228968253966,31,5000,8352026
+2026_03,low,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,sequence_displacement,20.14627450980392,18.528357228195937,21.86516069229624,31,5000,8352026
+2026_03,low,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,sequence_displacement,20.11764705882353,18.474458852358584,21.836304634418415,31,5000,8352026
+2026_03,low,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,31,5000,8352026
+2026_03,low,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,12.70313725490196,11.750601857293994,13.690860478199715,31,5000,8352026
+2026_03,low,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,sequence_displacement,10.70392156862745,9.8572294938918,11.574228968253966,31,5000,8352026
+2026_03,low,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,sequence_displacement,20.14627450980392,18.528357228195937,21.86516069229624,31,5000,8352026
+2026_03,low,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,sequence_displacement,20.11764705882353,18.474458852358584,21.836304634418415,31,5000,8352026
+2026_03,low,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,31,5000,8352026
+2026_03,low,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,12.70313725490196,11.750601857293994,13.690860478199715,31,5000,8352026
+2026_03,low,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,3985.1616708864603,2895.431101993041,5451.748919018964,31,5000,8352026
+2026_03,low,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,4058.0918457982953,2960.9959872524905,5515.3674617152055,31,5000,8352026
+2026_03,low,arrival_only,arrival_only,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,4057.735088201365,2960.462587768316,5514.927814192154,31,5000,8352026
+2026_03,low,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,3953.660749620487,2865.0916913973633,5422.123973057175,31,5000,8352026
+2026_03,low,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,3981.025942422389,2890.9607628873255,5447.586704205488,31,5000,8352026
+2026_03,low,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,3956.5789835490764,2865.711164718513,5423.019279557016,31,5000,8352026
+2026_03,low,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,4028.6866411616356,2931.84707127988,5487.9093534798785,31,5000,8352026
+2026_03,low,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,4028.078148969284,2931.5881604713786,5487.381944054236,31,5000,8352026
+2026_03,low,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,3927.8317719024813,2836.8688896937965,5393.403119374154,31,5000,8352026
+2026_03,low,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,3951.66312156219,2860.636310228216,5417.527933787949,31,5000,8352026
+2026_03,low,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,3976.8246731953996,2887.709175010017,5445.707099895561,31,5000,8352026
+2026_03,low,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,4056.4441683878217,2959.6160421748787,5513.875873278784,31,5000,8352026
+2026_03,low,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,4057.735088201365,2960.462587768316,5514.927814192154,31,5000,8352026
+2026_03,low,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,3953.660749620487,2865.0916913973633,5422.123973057175,31,5000,8352026
+2026_03,low,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,3965.4662762662506,2874.46736335818,5432.8856568973115,31,5000,8352026
+2026_03,low,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,3955.491368874159,2866.1972811553205,5422.038647040779,31,5000,8352026
+2026_03,low,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,4030.747742793356,2933.8038170051022,5490.267195262701,31,5000,8352026
+2026_03,low,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,4028.078148969284,2931.5881604713786,5487.381944054236,31,5000,8352026
+2026_03,low,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,3927.8317719024813,2836.8688896937965,5393.403119374154,31,5000,8352026
+2026_03,low,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,3943.754601458055,2852.8954567000824,5411.12598009406,31,5000,8352026
+2026_03,medium,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,1629.6799999999998,1137.0578475143177,2147.1218829049367,31,5000,8352026
+2026_03,medium,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,186.33941176470586,165.00844124812593,210.4801426432557,31,5000,8352026
+2026_03,medium,arrival_only,arrival_only,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,184.67980392156863,164.2919095238095,207.75491521092135,31,5000,8352026
+2026_03,medium,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,3487.8407843137256,2833.278177946593,4180.964504803743,31,5000,8352026
+2026_03,medium,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,1634.523137254902,1145.2870235417604,2151.461082041343,31,5000,8352026
+2026_03,medium,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,3482.9339215686277,2933.35087006027,4033.8724333815803,31,5000,8352026
+2026_03,medium,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,1980.77568627451,1757.7251076228245,2213.7050613977894,31,5000,8352026
+2026_03,medium,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,1995.8770588235293,1768.8304087552742,2230.927271428571,31,5000,8352026
+2026_03,medium,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,5296.98568627451,4582.697629790553,6038.31445021645,31,5000,8352026
+2026_03,medium,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,3472.1529411764704,2923.946956822438,4024.041461096375,31,5000,8352026
+2026_03,medium,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,2231.3545098039217,1727.475166076725,2768.161625159642,31,5000,8352026
+2026_03,medium,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,281.94803921568626,243.43431616961792,323.0581231829532,31,5000,8352026
+2026_03,medium,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,184.67980392156863,164.2919095238095,207.75491521092135,31,5000,8352026
+2026_03,medium,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,3487.8407843137256,2833.278177946593,4180.964504803743,31,5000,8352026
+2026_03,medium,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,2224.3888235294116,1720.3048759944936,2762.6542782175366,31,5000,8352026
+2026_03,medium,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,3496.359803921569,2946.1047889637266,4063.9272694262886,31,5000,8352026
+2026_03,medium,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,1765.3370588235293,1586.5524042145591,1951.0724366405702,31,5000,8352026
+2026_03,medium,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,1995.8770588235293,1768.8304087552742,2230.927271428571,31,5000,8352026
+2026_03,medium,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,5296.98568627451,4582.697629790553,6038.31445021645,31,5000,8352026
+2026_03,medium,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,3431.0931372549016,2894.232589250087,3992.4790968362795,31,5000,8352026
+2026_03,medium,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,sequence_displacement,14.587450980392157,13.563166829162606,15.727570048309177,31,5000,8352026
+2026_03,medium,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,sequence_displacement,19.376470588235293,17.60440677966102,21.26317403939296,31,5000,8352026
+2026_03,medium,arrival_only,arrival_only,DemandFCFS,Demand FCFS,sequence_displacement,19.4,17.630888953942232,21.291944402363278,31,5000,8352026
+2026_03,medium,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,31,5000,8352026
+2026_03,medium,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,14.830980392156864,13.712137550200802,16.040863235352294,31,5000,8352026
+2026_03,medium,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,sequence_displacement,14.587450980392157,13.563166829162606,15.727570048309177,31,5000,8352026
+2026_03,medium,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,sequence_displacement,19.376470588235293,17.60440677966102,21.26317403939296,31,5000,8352026
+2026_03,medium,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,sequence_displacement,19.4,17.630888953942232,21.291944402363278,31,5000,8352026
+2026_03,medium,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,31,5000,8352026
+2026_03,medium,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,14.830980392156864,13.712137550200802,16.040863235352294,31,5000,8352026
+2026_03,medium,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,sequence_displacement,9.239607843137255,8.520760811900518,10.003130782695674,31,5000,8352026
+2026_03,medium,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,sequence_displacement,19.520392156862744,17.752786449250085,21.38863518279222,31,5000,8352026
+2026_03,medium,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,sequence_displacement,19.4,17.630888953942232,21.291944402363278,31,5000,8352026
+2026_03,medium,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,31,5000,8352026
+2026_03,medium,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,12.016078431372549,11.143690804966816,12.973358178053829,31,5000,8352026
+2026_03,medium,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,sequence_displacement,9.239607843137255,8.520760811900518,10.003130782695674,31,5000,8352026
+2026_03,medium,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,sequence_displacement,19.520392156862744,17.752786449250085,21.38863518279222,31,5000,8352026
+2026_03,medium,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,sequence_displacement,19.4,17.630888953942232,21.291944402363278,31,5000,8352026
+2026_03,medium,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,31,5000,8352026
+2026_03,medium,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,12.016078431372549,11.143690804966816,12.973358178053829,31,5000,8352026
+2026_03,medium,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1682.0144938752246,1575.169118017221,1796.946513577264,31,5000,8352026
+2026_03,medium,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1711.066064983333,1596.1300783992774,1835.3775589721,31,5000,8352026
+2026_03,medium,arrival_only,arrival_only,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1710.6953050561965,1595.8530981718734,1835.1860352746958,31,5000,8352026
+2026_03,medium,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1632.7919659461104,1529.9127289856588,1746.8690061814523,31,5000,8352026
+2026_03,medium,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1678.8051695315833,1572.0222997479661,1793.5675948881694,31,5000,8352026
+2026_03,medium,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1626.630971054058,1518.9187262869764,1746.6209958199036,31,5000,8352026
+2026_03,medium,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1656.4971417745733,1541.5786459889327,1785.148658501138,31,5000,8352026
+2026_03,medium,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1655.3552806772152,1540.7855852865507,1783.7405935446388,31,5000,8352026
+2026_03,medium,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1581.4527905154728,1476.936112184853,1700.0979532488545,31,5000,8352026
+2026_03,medium,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1622.695993206926,1515.2969608271314,1742.0922380690763,31,5000,8352026
+2026_03,medium,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1667.6506463585702,1561.8775899386326,1782.7667300628552,31,5000,8352026
+2026_03,medium,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1707.879102293444,1593.5265092553045,1832.1980107207953,31,5000,8352026
+2026_03,medium,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1710.6953050561965,1595.8530981718734,1835.1860352746958,31,5000,8352026
+2026_03,medium,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1632.7919659461104,1529.9127289856588,1746.8690061814523,31,5000,8352026
+2026_03,medium,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1654.5335258770997,1548.196763601526,1769.3816581880283,31,5000,8352026
+2026_03,medium,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1629.0574066402908,1522.538724244045,1747.5457085761852,31,5000,8352026
+2026_03,medium,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1661.7498302956537,1546.9597404241802,1789.7130517729352,31,5000,8352026
+2026_03,medium,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1655.3552806772152,1540.7855852865507,1783.7405935446388,31,5000,8352026
+2026_03,medium,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1581.4527905154728,1476.936112184853,1700.0979532488545,31,5000,8352026
+2026_03,medium,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1612.7734808074208,1505.4425258394265,1731.9162380462897,31,5000,8352026
+2026_03,high,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,1278.693137254902,842.2171476510068,1731.0501358387457,31,5000,8352026
+2026_03,high,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,185.49392156862746,163.66898194812848,204.99066963485663,31,5000,8352026
+2026_03,high,arrival_only,arrival_only,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,182.23450980392158,161.7406187028817,199.74297833898575,31,5000,8352026
+2026_03,high,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,2855.610392156863,2278.8986090607614,3443.762246127365,31,5000,8352026
+2026_03,high,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,1281.3901960784315,845.3594495415982,1733.720425381571,31,5000,8352026
+2026_03,high,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,4292.131176470589,3551.7380884055015,4991.147701656889,31,5000,8352026
+2026_03,high,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,3155.1792156862743,2764.087305523609,3529.8890616341782,31,5000,8352026
+2026_03,high,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,3158.8521568627452,2769.8411465324384,3531.850301724138,31,5000,8352026
+2026_03,high,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,5841.902745098039,4957.113672932903,6699.2987103211135,31,5000,8352026
+2026_03,high,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,4278.649411764706,3542.2542414529917,4978.616073817167,31,5000,8352026
+2026_03,high,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,2037.0162745098035,1515.2935034917657,2556.402717959257,31,5000,8352026
+2026_03,high,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,397.2423529411765,341.02767431850793,449.0144717971882,31,5000,8352026
+2026_03,high,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,182.23450980392158,161.7406187028817,199.74297833898575,31,5000,8352026
+2026_03,high,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,2855.610392156863,2278.8986090607614,3443.762246127365,31,5000,8352026
+2026_03,high,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,2106.8596078431374,1580.7887604166665,2646.402271110823,31,5000,8352026
+2026_03,high,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,total_arrival_waiting_sec,3972.044901960784,3299.5593160597573,4613.364576719577,31,5000,8352026
+2026_03,high,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,total_arrival_waiting_sec,2549.462745098039,2302.934849863728,2779.5459144766023,31,5000,8352026
+2026_03,high,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,total_arrival_waiting_sec,3158.8521568627452,2769.8411465324384,3531.850301724138,31,5000,8352026
+2026_03,high,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,total_arrival_waiting_sec,5841.902745098039,4957.113672932903,6699.2987103211135,31,5000,8352026
+2026_03,high,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,total_arrival_waiting_sec,3899.95,3237.751793005952,4533.672261882942,31,5000,8352026
+2026_03,high,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,sequence_displacement,14.897647058823528,13.62191714104997,16.09817891681853,31,5000,8352026
+2026_03,high,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,sequence_displacement,19.011764705882353,16.902378048780488,21.051558309993446,31,5000,8352026
+2026_03,high,arrival_only,arrival_only,DemandFCFS,Demand FCFS,sequence_displacement,19.152941176470588,17.031890209394454,21.198122498420055,31,5000,8352026
+2026_03,high,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,31,5000,8352026
+2026_03,high,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,14.794901960784314,13.503514093137257,16.019149477447744,31,5000,8352026
+2026_03,high,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,sequence_displacement,14.897647058823528,13.62191714104997,16.09817891681853,31,5000,8352026
+2026_03,high,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,sequence_displacement,19.011764705882353,16.902378048780488,21.051558309993446,31,5000,8352026
+2026_03,high,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,sequence_displacement,19.152941176470588,17.031890209394454,21.198122498420055,31,5000,8352026
+2026_03,high,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,31,5000,8352026
+2026_03,high,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,14.794901960784314,13.503514093137257,16.019149477447744,31,5000,8352026
+2026_03,high,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,sequence_displacement,8.453333333333335,7.803640912833179,9.102808333333334,31,5000,8352026
+2026_03,high,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,sequence_displacement,19.42823529411765,17.27638971642944,21.516984751430765,31,5000,8352026
+2026_03,high,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,sequence_displacement,19.152941176470588,17.031890209394454,21.198122498420055,31,5000,8352026
+2026_03,high,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,31,5000,8352026
+2026_03,high,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,11.935686274509804,10.938835686183754,12.93104011827699,31,5000,8352026
+2026_03,high,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,sequence_displacement,8.453333333333335,7.803640912833179,9.102808333333334,31,5000,8352026
+2026_03,high,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,sequence_displacement,19.42823529411765,17.27638971642944,21.516984751430765,31,5000,8352026
+2026_03,high,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,sequence_displacement,19.152941176470588,17.031890209394454,21.198122498420055,31,5000,8352026
+2026_03,high,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,sequence_displacement,0.0,0.0,0.0,31,5000,8352026
+2026_03,high,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,sequence_displacement,11.935686274509804,10.938835686183754,12.93104011827699,31,5000,8352026
+2026_03,high,arrival_only,arrival_only,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1630.460637711503,1541.3672091063236,1718.7354438899563,31,5000,8352026
+2026_03,high,arrival_only,arrival_only,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1648.1095656004288,1556.8259004256167,1738.8485512787304,31,5000,8352026
+2026_03,high,arrival_only,arrival_only,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1647.718799120607,1556.4017540840198,1738.6692268844104,31,5000,8352026
+2026_03,high,arrival_only,arrival_only,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1590.4855661718873,1501.4016966014487,1677.1600581974708,31,5000,8352026
+2026_03,high,arrival_only,arrival_only,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1627.9910603548262,1538.8497715227313,1716.19757538487,31,5000,8352026
+2026_03,high,arrival_only,departure_blocked,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1536.0116102560717,1443.820999824192,1628.6022145952713,31,5000,8352026
+2026_03,high,arrival_only,departure_blocked,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1550.389162657938,1456.6840121503385,1644.1165710586354,31,5000,8352026
+2026_03,high,arrival_only,departure_blocked,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1549.7305089265642,1455.8085608027864,1643.4834690615442,31,5000,8352026
+2026_03,high,arrival_only,departure_blocked,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1508.5982193848236,1417.4150018570176,1598.9058864089664,31,5000,8352026
+2026_03,high,arrival_only,departure_blocked,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1532.311128074332,1440.1531002132047,1624.9210902529983,31,5000,8352026
+2026_03,high,departure_blocked,arrival_only,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1609.39644043262,1520.6420291303448,1696.273408422922,31,5000,8352026
+2026_03,high,departure_blocked,arrival_only,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1641.9656669315118,1550.976333995629,1733.4436626927586,31,5000,8352026
+2026_03,high,departure_blocked,arrival_only,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1647.718799120607,1556.4017540840198,1738.6692268844104,31,5000,8352026
+2026_03,high,departure_blocked,arrival_only,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1590.4855661718873,1501.4016966014487,1677.1600581974708,31,5000,8352026
+2026_03,high,departure_blocked,arrival_only,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1589.5240678178438,1499.2596504278451,1678.3561663728897,31,5000,8352026
+2026_03,high,departure_blocked,departure_blocked,CPSDelay_m2K8,CPS Delay,absolute_schedule_deviation_sec,1547.8989426127798,1458.7563223461593,1636.4758906578268,31,5000,8352026
+2026_03,high,departure_blocked,departure_blocked,CompletionGreedy,Completion Greedy,absolute_schedule_deviation_sec,1567.5097436990088,1474.9252993280368,1660.6705946332252,31,5000,8352026
+2026_03,high,departure_blocked,departure_blocked,DemandFCFS,Demand FCFS,absolute_schedule_deviation_sec,1549.7305089265642,1455.8085608027864,1643.4834690615442,31,5000,8352026
+2026_03,high,departure_blocked,departure_blocked,ObservedRunwayOrder,Observed Runway Order,absolute_schedule_deviation_sec,1508.5982193848236,1417.4150018570176,1598.9058864089664,31,5000,8352026
+2026_03,high,departure_blocked,departure_blocked,ScheduleAware_m2K8,Schedule Aware,absolute_schedule_deviation_sec,1524.7357319727748,1434.1538110057877,1615.4807640359754,31,5000,8352026

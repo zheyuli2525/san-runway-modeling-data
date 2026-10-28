@@ -1,0 +1,969 @@
+month,departure_pressure,lambda_R,lambda_S,arrival_only_selected_policy,arrival_only_selected_policy_display_name,arrival_only_selected_sequence_departure_blocked_score,best_cross_evaluated_departure_blocked_score,best_cross_evaluated_departure_blocked_sequences,policy_selection_regret,diagonal_score_difference
+2026_02,all,0.0,0.0,DemandFCFS,Demand FCFS,0.323160546681253,0.27999017363412254,departure_blocked:CompletionGreedy,0.04317037304713045,0.04317037304713045
+2026_02,all,0.0,0.1,DemandFCFS,Demand FCFS,0.38940267991353983,0.3489788511970993,departure_blocked:CompletionGreedy,0.04042382871644051,0.04042382871644051
+2026_02,all,0.0,0.2,DemandFCFS,Demand FCFS,0.45564481314582667,0.41796752876007603,departure_blocked:CompletionGreedy,0.03767728438575063,0.03767728438575063
+2026_02,all,0.0,0.30000000000000004,DemandFCFS,Demand FCFS,0.5218869463781135,0.48695620632305286,departure_blocked:CompletionGreedy,0.03493074005506064,0.03493074005506064
+2026_02,all,0.0,0.4,DemandFCFS,Demand FCFS,0.5881290796104004,0.5559448838860296,departure_blocked:CompletionGreedy,0.03218419572437081,0.03218419572437081
+2026_02,all,0.0,0.5,DemandFCFS,Demand FCFS,0.6543712128426872,0.6249335614490064,departure_blocked:CompletionGreedy,0.02943765139368082,0.02943765139368082
+2026_02,all,0.0,0.6000000000000001,DemandFCFS,Demand FCFS,0.7206133460749741,0.6939222390119832,departure_blocked:CompletionGreedy,0.026691107062990826,0.026691107062990826
+2026_02,all,0.0,0.7000000000000001,DemandFCFS,Demand FCFS,0.7868554793072609,0.7629109165749599,departure_blocked:CompletionGreedy,0.023944562732300945,0.023944562732300945
+2026_02,all,0.0,0.8,DemandFCFS,Demand FCFS,0.8530976125395477,0.7837892767129048,departure_blocked:ScheduleAware_m2K8,0.06930833582664297,0.06930833582664297
+2026_02,all,0.0,0.9,ScheduleAware_m2K8,Schedule Aware,0.8810727119855465,0.798818918312964,departure_blocked:ScheduleAware_m2K8,0.08225379367258245,0.08225379367258245
+2026_02,all,0.0,1.0,ScheduleAware_m2K8,Schedule Aware,0.9044268510689343,0.8138485599130233,departure_blocked:ScheduleAware_m2K8,0.09057829115591098,0.09057829115591098
+2026_02,all,0.1,0.0,DemandFCFS,Demand FCFS,0.4221869457862067,0.3799901736341226,departure_blocked:CompletionGreedy,0.04219677215208412,0.04219677215208412
+2026_02,all,0.1,0.1,DemandFCFS,Demand FCFS,0.48842907901849353,0.44897885119709935,departure_blocked:CompletionGreedy,0.03945022782139418,0.03945022782139418
+2026_02,all,0.1,0.2,DemandFCFS,Demand FCFS,0.5546712122507804,0.5179675287600761,departure_blocked:CompletionGreedy,0.0367036834907043,0.0367036834907043
+2026_02,all,0.1,0.30000000000000004,DemandFCFS,Demand FCFS,0.6209133454830672,0.5869562063230529,departure_blocked:CompletionGreedy,0.033957139160014305,0.033957139160014305
+2026_02,all,0.1,0.4,DemandFCFS,Demand FCFS,0.687155478715354,0.6559448838860296,departure_blocked:CompletionGreedy,0.031210594829324423,0.031210594829324423
+2026_02,all,0.1,0.5,DemandFCFS,Demand FCFS,0.7533976119476409,0.7249335614490064,departure_blocked:CompletionGreedy,0.02846405049863443,0.02846405049863443
+2026_02,all,0.1,0.6000000000000001,DemandFCFS,Demand FCFS,0.8196397451799278,0.7939222390119832,departure_blocked:CompletionGreedy,0.025717506167944548,0.025717506167944548
+2026_02,all,0.1,0.7000000000000001,DemandFCFS,Demand FCFS,0.8858818784122147,0.8292181082971631,departure_blocked:ScheduleAware_m2K8,0.056663770115051526,0.056663770115051526
+2026_02,all,0.1,0.8,ScheduleAware_m2K8,Schedule Aware,0.9287462098371011,0.8442477498972224,departure_blocked:ScheduleAware_m2K8,0.0844984599398787,0.0844984599398787
+2026_02,all,0.1,0.9,ScheduleAware_m2K8,Schedule Aware,0.952100348920489,0.8592773914972817,departure_blocked:ScheduleAware_m2K8,0.09282295742320734,0.09282295742320734
+2026_02,all,0.1,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,0.8743070330973409,departure_blocked:ScheduleAware_m2K8,0.12569296690265908,0.12569296690265908
+2026_02,all,0.2,0.0,DemandFCFS,Demand FCFS,0.5212133448911604,0.47999017363412255,departure_blocked:CompletionGreedy,0.041223171257037894,0.041223171257037894
+2026_02,all,0.2,0.1,DemandFCFS,Demand FCFS,0.5874554781234473,0.5489788511970993,departure_blocked:CompletionGreedy,0.03847662692634801,0.03847662692634801
+2026_02,all,0.2,0.2,DemandFCFS,Demand FCFS,0.6536976113557341,0.6179675287600761,departure_blocked:CompletionGreedy,0.03573008259565802,0.03573008259565802
+2026_02,all,0.2,0.30000000000000004,DemandFCFS,Demand FCFS,0.719939744588021,0.6869562063230529,departure_blocked:CompletionGreedy,0.03298353826496814,0.03298353826496814
+2026_02,all,0.2,0.4,DemandFCFS,Demand FCFS,0.7861818778203078,0.7559448838860297,departure_blocked:CompletionGreedy,0.030236993934278145,0.030236993934278145
+2026_02,all,0.2,0.5,DemandFCFS,Demand FCFS,0.8524240110525947,0.8249335614490063,departure_blocked:CompletionGreedy,0.027490449603588374,0.027490449603588374
+2026_02,all,0.2,0.6000000000000001,DemandFCFS,Demand FCFS,0.9186661442848816,0.8746469398814215,departure_blocked:ScheduleAware_m2K8,0.04401920440346008,0.04401920440346008
+2026_02,all,0.2,0.7000000000000001,ScheduleAware_m2K8,Schedule Aware,0.9764197076886558,0.8896765814814808,departure_blocked:ScheduleAware_m2K8,0.08674312620717506,0.08674312620717506
+2026_02,all,0.2,0.8,ObservedRunwayOrder,Observed Runway Order,1.0,0.90470622308154,departure_blocked:ScheduleAware_m2K8,0.09529377691845997,0.09529377691845997
+2026_02,all,0.2,0.9,ObservedRunwayOrder,Observed Runway Order,1.0,0.9197358646815993,departure_blocked:ScheduleAware_m2K8,0.08026413531840071,0.08026413531840071
+2026_02,all,0.2,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,0.9347655062816586,departure_blocked:ScheduleAware_m2K8,0.06523449371834145,0.06523449371834145
+2026_02,all,0.30000000000000004,0.0,DemandFCFS,Demand FCFS,0.620239743996114,0.5799901736341226,departure_blocked:CompletionGreedy,0.040249570361991394,0.040249570361991394
+2026_02,all,0.30000000000000004,0.1,DemandFCFS,Demand FCFS,0.6864818772284009,0.6489788511970994,departure_blocked:CompletionGreedy,0.03750302603130151,0.03750302603130151
+2026_02,all,0.30000000000000004,0.2,DemandFCFS,Demand FCFS,0.7527240104606877,0.7179675287600762,departure_blocked:CompletionGreedy,0.03475648170061152,0.03475648170061152
+2026_02,all,0.30000000000000004,0.30000000000000004,DemandFCFS,Demand FCFS,0.8189661436929746,0.786956206323053,departure_blocked:CompletionGreedy,0.03200993736992164,0.03200993736992164
+2026_02,all,0.30000000000000004,0.4,DemandFCFS,Demand FCFS,0.8852082769252614,0.8559448838860297,departure_blocked:CompletionGreedy,0.029263393039231644,0.029263393039231644
+2026_02,all,0.30000000000000004,0.5,DemandFCFS,Demand FCFS,0.9514504101575483,0.92007577146568,departure_blocked:ScheduleAware_m2K8,0.031374638691868295,0.031374638691868295
+2026_02,all,0.30000000000000004,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,0.9351054130657392,departure_blocked:ScheduleAware_m2K8,0.06489458693426076,0.06489458693426076
+2026_02,all,0.30000000000000004,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,0.9501350546657985,departure_blocked:ScheduleAware_m2K8,0.049864945334201494,0.049864945334201494
+2026_02,all,0.30000000000000004,0.8,ObservedRunwayOrder,Observed Runway Order,1.0,0.9651646962658578,departure_blocked:ScheduleAware_m2K8,0.03483530373414223,0.03483530373414223
+2026_02,all,0.30000000000000004,0.9,ObservedRunwayOrder,Observed Runway Order,1.0,0.980194337865917,departure_blocked:ScheduleAware_m2K8,0.01980566213408297,0.01980566213408297
+2026_02,all,0.30000000000000004,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,0.9952239794659763,departure_blocked:ScheduleAware_m2K8,0.004776020534023706,0.004776020534023706
+2026_02,all,0.4,0.0,DemandFCFS,Demand FCFS,0.7192661431010678,0.6799901736341225,departure_blocked:CompletionGreedy,0.03927596946694534,0.03927596946694534
+2026_02,all,0.4,0.1,DemandFCFS,Demand FCFS,0.7855082763333547,0.7489788511970993,departure_blocked:CompletionGreedy,0.036529425136255456,0.036529425136255456
+2026_02,all,0.4,0.2,DemandFCFS,Demand FCFS,0.8517504095656415,0.8179675287600761,departure_blocked:CompletionGreedy,0.03378288080556546,0.03378288080556546
+2026_02,all,0.4,0.30000000000000004,DemandFCFS,Demand FCFS,0.9179925427979284,0.8869562063230528,departure_blocked:CompletionGreedy,0.03103633647487558,0.03103633647487558
+2026_02,all,0.4,0.4,DemandFCFS,Demand FCFS,0.9842346760302152,0.9559448838860296,departure_blocked:CompletionGreedy,0.028289792144185588,0.028289792144185588
+2026_02,all,0.4,0.5,ObservedRunwayOrder,Observed Runway Order,1.0,0.9805342446499976,departure_blocked:ScheduleAware_m2K8,0.01946575535000239,0.01946575535000239
+2026_02,all,0.4,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,0.9955638862500569,departure_blocked:ScheduleAware_m2K8,0.004436113749943127,0.004436113749943127
+2026_02,all,0.4,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.4,0.8,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.4,0.9,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.4,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.5,0.0,DemandFCFS,Demand FCFS,0.8182925422060214,0.7799901736341226,departure_blocked:CompletionGreedy,0.03830236857189884,0.03830236857189884
+2026_02,all,0.5,0.1,DemandFCFS,Demand FCFS,0.8845346754383083,0.8489788511970994,departure_blocked:CompletionGreedy,0.035555824241208955,0.035555824241208955
+2026_02,all,0.5,0.2,DemandFCFS,Demand FCFS,0.9507768086705951,0.9179675287600761,departure_blocked:CompletionGreedy,0.03280927991051896,0.03280927991051896
+2026_02,all,0.5,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,1.0,0.9869562063230529,departure_blocked:CompletionGreedy,0.01304379367694708,0.01304379367694708
+2026_02,all,0.5,0.4,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.5,0.5,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.5,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.5,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.5,0.8,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.5,0.9,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.5,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.6000000000000001,0.0,DemandFCFS,Demand FCFS,0.9173189413109752,0.8799901736341227,departure_blocked:CompletionGreedy,0.03732876767685256,0.03732876767685256
+2026_02,all,0.6000000000000001,0.1,DemandFCFS,Demand FCFS,0.9835610745432621,0.9489788511970995,departure_blocked:CompletionGreedy,0.03458222334616268,0.03458222334616268
+2026_02,all,0.6000000000000001,0.2,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.6000000000000001,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.6000000000000001,0.4,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.6000000000000001,0.5,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.6000000000000001,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.6000000000000001,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.6000000000000001,0.8,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.6000000000000001,0.9,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.6000000000000001,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.7000000000000001,0.0,ObservedRunwayOrder,Observed Runway Order,1.0,0.9799901736341226,departure_blocked:CompletionGreedy,0.020009826365877448,0.020009826365877448
+2026_02,all,0.7000000000000001,0.1,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.7000000000000001,0.2,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.7000000000000001,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.7000000000000001,0.4,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.7000000000000001,0.5,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.7000000000000001,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.7000000000000001,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.7000000000000001,0.8,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.7000000000000001,0.9,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.7000000000000001,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.8,0.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.8,0.1,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.8,0.2,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.8,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.8,0.4,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.8,0.5,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.8,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.8,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.8,0.8,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.8,0.9,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.8,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.9,0.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.9,0.1,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.9,0.2,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.9,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.9,0.4,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.9,0.5,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.9,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.9,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.9,0.8,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.9,0.9,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,0.9,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,1.0,0.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,1.0,0.1,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,1.0,0.2,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,1.0,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,1.0,0.4,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,1.0,0.5,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,1.0,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,1.0,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,1.0,0.8,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,1.0,0.9,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,all,1.0,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.0,0.0,DemandFCFS,Demand FCFS,0.49289829959560194,0.4095033828484652,departure_blocked:CompletionGreedy,0.08339491674713673,0.08339491674713673
+2026_02,high,0.0,0.1,DemandFCFS,Demand FCFS,0.40333359161136706,0.3231503621627097,departure_blocked:CompletionGreedy,0.08018322944865736,0.08018322944865736
+2026_02,high,0.0,0.2,DemandFCFS,Demand FCFS,0.3137688836271322,0.23679734147695417,departure_blocked:CompletionGreedy,0.07697154215017801,0.07697154215017801
+2026_02,high,0.0,0.30000000000000004,DemandFCFS,Demand FCFS,0.2242041756428973,0.15044432079119863,departure_blocked:CompletionGreedy,0.07375985485169867,0.07375985485169867
+2026_02,high,0.0,0.4,DemandFCFS,Demand FCFS,0.13463946765866242,0.06409130010544312,departure_blocked:CompletionGreedy,0.0705481675532193,0.0705481675532193
+2026_02,high,0.0,0.5,DemandFCFS,Demand FCFS,0.04507475967442759,-0.022261720580312394,departure_blocked:CompletionGreedy,0.06733648025473998,0.06733648025473998
+2026_02,high,0.0,0.6000000000000001,DemandFCFS,Demand FCFS,-0.04448994830980735,-0.10861474126606796,departure_blocked:CompletionGreedy,0.06412479295626061,0.06412479295626061
+2026_02,high,0.0,0.7000000000000001,DemandFCFS,Demand FCFS,-0.13405465629404223,-0.19496776195182353,departure_blocked:CompletionGreedy,0.0609131056577813,0.0609131056577813
+2026_02,high,0.0,0.8,DemandFCFS,Demand FCFS,-0.2236193642782771,-0.2850889190940472,departure_blocked:ScheduleAware_m2K8,0.0614695548157701,0.0614695548157701
+2026_02,high,0.0,0.9,DemandFCFS,Demand FCFS,-0.3131840722625119,-0.410303445199946,departure_blocked:ScheduleAware_m2K8,0.09711937293743411,0.09711937293743411
+2026_02,high,0.0,1.0,DemandFCFS,Demand FCFS,-0.40274878024674676,-0.5355179713058448,departure_blocked:ScheduleAware_m2K8,0.132769191059098,0.132769191059098
+2026_02,high,0.1,0.0,CompletionGreedy,Completion Greedy,0.585767977288755,0.5050753580209957,departure_blocked:CompletionGreedy,0.08069261926775928,0.08069261926775928
+2026_02,high,0.1,0.1,DemandFCFS,Demand FCFS,0.49759519308815425,0.41872233733524017,departure_blocked:CompletionGreedy,0.07887285575291408,0.07887285575291408
+2026_02,high,0.1,0.2,DemandFCFS,Demand FCFS,0.40803048510391937,0.33236931664948466,departure_blocked:CompletionGreedy,0.07566116845443471,0.07566116845443471
+2026_02,high,0.1,0.30000000000000004,DemandFCFS,Demand FCFS,0.3184657771196845,0.2460162959637291,departure_blocked:CompletionGreedy,0.0724494811559554,0.0724494811559554
+2026_02,high,0.1,0.4,DemandFCFS,Demand FCFS,0.2289010691354496,0.15966327527797358,departure_blocked:CompletionGreedy,0.06923779385747603,0.06923779385747603
+2026_02,high,0.1,0.5,DemandFCFS,Demand FCFS,0.13933636115121478,0.07331025459221807,departure_blocked:CompletionGreedy,0.06602610655899671,0.06602610655899671
+2026_02,high,0.1,0.6000000000000001,DemandFCFS,Demand FCFS,0.049771653166979846,-0.013042766093537494,departure_blocked:CompletionGreedy,0.06281441926051734,0.06281441926051734
+2026_02,high,0.1,0.7000000000000001,DemandFCFS,Demand FCFS,-0.039793054817255036,-0.10314682286863386,departure_blocked:ScheduleAware_m2K8,0.06335376805137882,0.06335376805137882
+2026_02,high,0.1,0.8,DemandFCFS,Demand FCFS,-0.12935776280148992,-0.22836134897453275,departure_blocked:ScheduleAware_m2K8,0.09900358617304283,0.09900358617304283
+2026_02,high,0.1,0.9,DemandFCFS,Demand FCFS,-0.2189224707857247,-0.35357587508043153,departure_blocked:ScheduleAware_m2K8,0.13465340429470685,0.13465340429470685
+2026_02,high,0.1,1.0,DemandFCFS,Demand FCFS,-0.30848717876995957,-0.4787904011863303,departure_blocked:ScheduleAware_m2K8,0.17030322241637075,0.17030322241637075
+2026_02,high,0.2,0.0,CompletionGreedy,Completion Greedy,0.6798874044043404,0.600647333193526,departure_blocked:CompletionGreedy,0.07924007121081433,0.07924007121081433
+2026_02,high,0.2,0.1,CompletionGreedy,Completion Greedy,0.5905676143893118,0.5142943125077705,departure_blocked:CompletionGreedy,0.07627330188154136,0.07627330188154136
+2026_02,high,0.2,0.2,DemandFCFS,Demand FCFS,0.5022920865807067,0.427941291822015,departure_blocked:CompletionGreedy,0.07435079475869166,0.07435079475869166
+2026_02,high,0.2,0.30000000000000004,DemandFCFS,Demand FCFS,0.4127273785964718,0.34158827113625945,departure_blocked:CompletionGreedy,0.07113910746021235,0.07113910746021235
+2026_02,high,0.2,0.4,DemandFCFS,Demand FCFS,0.3231626706122369,0.25523525045050394,departure_blocked:CompletionGreedy,0.06792742016173298,0.06792742016173298
+2026_02,high,0.2,0.5,DemandFCFS,Demand FCFS,0.2335979626280021,0.16888222976474843,departure_blocked:CompletionGreedy,0.06471573286325366,0.06471573286325366
+2026_02,high,0.2,0.6000000000000001,DemandFCFS,Demand FCFS,0.14403325464376715,0.0787952733567795,departure_blocked:ScheduleAware_m2K8,0.06523798128698766,0.06523798128698766
+2026_02,high,0.2,0.7000000000000001,DemandFCFS,Demand FCFS,0.05446854665953227,-0.04641925274911929,departure_blocked:ScheduleAware_m2K8,0.10088779940865156,0.10088779940865156
+2026_02,high,0.2,0.8,DemandFCFS,Demand FCFS,-0.03509616132470261,-0.17163377885501818,departure_blocked:ScheduleAware_m2K8,0.13653761753031557,0.13653761753031557
+2026_02,high,0.2,0.9,ObservedRunwayOrder,Observed Runway Order,-0.1209856658394306,-0.29684830496091696,departure_blocked:ScheduleAware_m2K8,0.17586263912148636,0.17586263912148636
+2026_02,high,0.2,1.0,ObservedRunwayOrder,Observed Runway Order,-0.25673137337073326,-0.42206283106681575,departure_blocked:ScheduleAware_m2K8,0.16533145769608248,0.16533145769608248
+2026_02,high,0.30000000000000004,0.0,CompletionGreedy,Completion Greedy,0.774006831519926,0.6962193083660566,departure_blocked:CompletionGreedy,0.07778752315386939,0.07778752315386939
+2026_02,high,0.30000000000000004,0.1,CompletionGreedy,Completion Greedy,0.6846870415048975,0.609866287680301,departure_blocked:CompletionGreedy,0.07482075382459641,0.07482075382459641
+2026_02,high,0.30000000000000004,0.2,CompletionGreedy,Completion Greedy,0.595367251489869,0.5235132669945456,departure_blocked:CompletionGreedy,0.07185398449532343,0.07185398449532343
+2026_02,high,0.30000000000000004,0.30000000000000004,DemandFCFS,Demand FCFS,0.5069889800732591,0.43716024630879,departure_blocked:CompletionGreedy,0.06982873376446908,0.06982873376446908
+2026_02,high,0.30000000000000004,0.4,DemandFCFS,Demand FCFS,0.4174242720890242,0.3508072256230345,departure_blocked:CompletionGreedy,0.0666170464659897,0.0666170464659897
+2026_02,high,0.30000000000000004,0.5,DemandFCFS,Demand FCFS,0.3278595641047894,0.26073736958219296,departure_blocked:ScheduleAware_m2K8,0.06712219452259643,0.06712219452259643
+2026_02,high,0.30000000000000004,0.6000000000000001,DemandFCFS,Demand FCFS,0.23829485612055445,0.13552284347629395,departure_blocked:ScheduleAware_m2K8,0.1027720126442605,0.1027720126442605
+2026_02,high,0.30000000000000004,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,0.15050574922317472,0.01030831737039517,departure_blocked:ScheduleAware_m2K8,0.14019743185277955,0.14019743185277955
+2026_02,high,0.30000000000000004,0.8,ObservedRunwayOrder,Observed Runway Order,0.014760041691872061,-0.11490620873550372,departure_blocked:ScheduleAware_m2K8,0.12966625042737578,0.12966625042737578
+2026_02,high,0.30000000000000004,0.9,ObservedRunwayOrder,Observed Runway Order,-0.1209856658394306,-0.2401207348414025,departure_blocked:ScheduleAware_m2K8,0.1191350690019719,0.1191350690019719
+2026_02,high,0.30000000000000004,1.0,ObservedRunwayOrder,Observed Runway Order,-0.25673137337073326,-0.3653352609473013,departure_blocked:ScheduleAware_m2K8,0.10860388757656803,0.10860388757656803
+2026_02,high,0.4,0.0,CompletionGreedy,Completion Greedy,0.8681262586355114,0.791791283538587,departure_blocked:CompletionGreedy,0.07633497509692444,0.07633497509692444
+2026_02,high,0.4,0.1,CompletionGreedy,Completion Greedy,0.7788064686204829,0.7054382628528314,departure_blocked:CompletionGreedy,0.07336820576765146,0.07336820576765146
+2026_02,high,0.4,0.2,CompletionGreedy,Completion Greedy,0.6894866786054544,0.6190852421670759,departure_blocked:CompletionGreedy,0.07040143643837848,0.07040143643837848
+2026_02,high,0.4,0.30000000000000004,DemandFCFS,Demand FCFS,0.6012505815500463,0.5327322214813204,departure_blocked:CompletionGreedy,0.06851836006872591,0.06851836006872591
+2026_02,high,0.4,0.4,DemandFCFS,Demand FCFS,0.5116858735658114,0.4426794658076063,departure_blocked:ScheduleAware_m2K8,0.0690064077582051,0.0690064077582051
+2026_02,high,0.4,0.5,ObservedRunwayOrder,Observed Runway Order,0.42199716428578027,0.3174649397017075,departure_blocked:ScheduleAware_m2K8,0.10453222458407274,0.10453222458407274
+2026_02,high,0.4,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,0.2862514567544775,0.19225041359580852,departure_blocked:ScheduleAware_m2K8,0.09400104315866897,0.09400104315866897
+2026_02,high,0.4,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,0.15050574922317472,0.06703588748990974,departure_blocked:ScheduleAware_m2K8,0.08346986173326498,0.08346986173326498
+2026_02,high,0.4,0.8,ObservedRunwayOrder,Observed Runway Order,0.014760041691872061,-0.05817863861598915,departure_blocked:ScheduleAware_m2K8,0.07293868030786121,0.07293868030786121
+2026_02,high,0.4,0.9,ObservedRunwayOrder,Observed Runway Order,-0.1209856658394306,-0.18339316472188794,departure_blocked:ScheduleAware_m2K8,0.062407498882457335,0.062407498882457335
+2026_02,high,0.4,1.0,ObservedRunwayOrder,Observed Runway Order,-0.25673137337073326,-0.3086076908277867,departure_blocked:ScheduleAware_m2K8,0.051876317457053456,0.051876317457053456
+2026_02,high,0.5,0.0,CompletionGreedy,Completion Greedy,0.9622456857510968,0.8873632587111173,departure_blocked:CompletionGreedy,0.0748824270399795,0.0748824270399795
+2026_02,high,0.5,0.1,CompletionGreedy,Completion Greedy,0.8729258957360683,0.8010102380253618,departure_blocked:CompletionGreedy,0.07191565771070652,0.07191565771070652
+2026_02,high,0.5,0.2,CompletionGreedy,Completion Greedy,0.7836061057210398,0.7146572173396063,departure_blocked:CompletionGreedy,0.06894888838143354,0.06894888838143354
+2026_02,high,0.5,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,0.6934885793483856,0.6144069844172664,departure_blocked:CPSDelay_m2K8,0.07908159493111921,0.07908159493111921
+2026_02,high,0.5,0.4,ObservedRunwayOrder,Observed Runway Order,0.5577428718170829,0.49940703592712066,departure_blocked:ScheduleAware_m2K8,0.05833583588996227,0.05833583588996227
+2026_02,high,0.5,0.5,ObservedRunwayOrder,Observed Runway Order,0.42199716428578027,0.3741925098212219,departure_blocked:ScheduleAware_m2K8,0.047804654464558394,0.047804654464558394
+2026_02,high,0.5,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,0.2862514567544775,0.24897798371532287,departure_blocked:ScheduleAware_m2K8,0.037273473039154625,0.037273473039154625
+2026_02,high,0.5,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,0.15050574922317472,0.12376345760942409,departure_blocked:ScheduleAware_m2K8,0.026742291613750635,0.026742291613750635
+2026_02,high,0.5,0.8,ObservedRunwayOrder,Observed Runway Order,0.014760041691872061,-0.0014510684964748055,departure_blocked:ScheduleAware_m2K8,0.016211110188346867,0.016211110188346867
+2026_02,high,0.5,0.9,ObservedRunwayOrder,Observed Runway Order,-0.1209856658394306,-0.1266655946023736,departure_blocked:ScheduleAware_m2K8,0.005679928762942987,0.005679928762942987
+2026_02,high,0.5,1.0,ObservedRunwayOrder,Observed Runway Order,-0.25673137337073326,-0.25673137337073326,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.6000000000000001,0.0,CompletionGreedy,Completion Greedy,1.0563651128666824,0.9829352338836479,departure_blocked:CompletionGreedy,0.07342987898303455,0.07342987898303455
+2026_02,high,0.6000000000000001,0.1,ObservedRunwayOrder,Observed Runway Order,0.9649799944109911,0.8761125551743405,departure_blocked:CPSDelay_m2K8,0.08886743923665064,0.08886743923665064
+2026_02,high,0.6000000000000001,0.2,ObservedRunwayOrder,Observed Runway Order,0.8292342868796884,0.7670669472314715,departure_blocked:CPSDelay_m2K8,0.06216733964821686,0.06216733964821686
+2026_02,high,0.6000000000000001,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,0.6934885793483856,0.6580213392886025,departure_blocked:CPSDelay_m2K8,0.03546724005978308,0.03546724005978308
+2026_02,high,0.6000000000000001,0.4,ObservedRunwayOrder,Observed Runway Order,0.5577428718170829,0.5489757313457334,departure_blocked:CPSDelay_m2K8,0.008767140471349522,0.008767140471349522
+2026_02,high,0.6000000000000001,0.5,ObservedRunwayOrder,Observed Runway Order,0.42199716428578027,0.42199716428578027,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.6000000000000001,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,0.2862514567544775,0.2862514567544775,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.6000000000000001,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,0.15050574922317472,0.15050574922317472,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.6000000000000001,0.8,ObservedRunwayOrder,Observed Runway Order,0.014760041691872061,0.014760041691872061,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.6000000000000001,0.9,ObservedRunwayOrder,Observed Runway Order,-0.1209856658394306,-0.1209856658394306,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.6000000000000001,1.0,ObservedRunwayOrder,Observed Runway Order,-0.25673137337073326,-0.25673137337073326,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.7000000000000001,0.0,ObservedRunwayOrder,Observed Runway Order,1.1007257019422938,1.0287725179885456,departure_blocked:CPSDelay_m2K8,0.07195318395374817,0.07195318395374817
+2026_02,high,0.7000000000000001,0.1,ObservedRunwayOrder,Observed Runway Order,0.9649799944109911,0.9197269100456766,departure_blocked:CPSDelay_m2K8,0.0452530843653145,0.0452530843653145
+2026_02,high,0.7000000000000001,0.2,ObservedRunwayOrder,Observed Runway Order,0.8292342868796884,0.8106813021028075,departure_blocked:CPSDelay_m2K8,0.018552984776880832,0.018552984776880832
+2026_02,high,0.7000000000000001,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,0.6934885793483856,0.6934885793483856,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.7000000000000001,0.4,ObservedRunwayOrder,Observed Runway Order,0.5577428718170829,0.5577428718170829,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.7000000000000001,0.5,ObservedRunwayOrder,Observed Runway Order,0.42199716428578027,0.42199716428578027,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.7000000000000001,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,0.2862514567544775,0.2862514567544775,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.7000000000000001,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,0.15050574922317472,0.15050574922317472,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.7000000000000001,0.8,ObservedRunwayOrder,Observed Runway Order,0.014760041691872061,0.014760041691872061,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.7000000000000001,0.9,ObservedRunwayOrder,Observed Runway Order,-0.1209856658394306,-0.1209856658394306,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.7000000000000001,1.0,ObservedRunwayOrder,Observed Runway Order,-0.25673137337073326,-0.25673137337073326,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.8,0.0,ObservedRunwayOrder,Observed Runway Order,1.1007257019422938,1.0723868728598815,departure_blocked:CPSDelay_m2K8,0.028338829082412254,0.028338829082412254
+2026_02,high,0.8,0.1,ObservedRunwayOrder,Observed Runway Order,0.9649799944109911,0.9633412649170126,departure_blocked:CPSDelay_m2K8,0.0016387294939785857,0.0016387294939785857
+2026_02,high,0.8,0.2,ObservedRunwayOrder,Observed Runway Order,0.8292342868796884,0.8292342868796884,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.8,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,0.6934885793483856,0.6934885793483856,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.8,0.4,ObservedRunwayOrder,Observed Runway Order,0.5577428718170829,0.5577428718170829,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.8,0.5,ObservedRunwayOrder,Observed Runway Order,0.42199716428578027,0.42199716428578027,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.8,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,0.2862514567544775,0.2862514567544775,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.8,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,0.15050574922317472,0.15050574922317472,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.8,0.8,ObservedRunwayOrder,Observed Runway Order,0.014760041691872061,0.014760041691872061,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.8,0.9,ObservedRunwayOrder,Observed Runway Order,-0.1209856658394306,-0.1209856658394306,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.8,1.0,ObservedRunwayOrder,Observed Runway Order,-0.25673137337073326,-0.25673137337073326,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.9,0.0,ObservedRunwayOrder,Observed Runway Order,1.1007257019422938,1.1007257019422938,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.9,0.1,ObservedRunwayOrder,Observed Runway Order,0.9649799944109911,0.9649799944109911,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.9,0.2,ObservedRunwayOrder,Observed Runway Order,0.8292342868796884,0.8292342868796884,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.9,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,0.6934885793483856,0.6934885793483856,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.9,0.4,ObservedRunwayOrder,Observed Runway Order,0.5577428718170829,0.5577428718170829,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.9,0.5,ObservedRunwayOrder,Observed Runway Order,0.42199716428578027,0.42199716428578027,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.9,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,0.2862514567544775,0.2862514567544775,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.9,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,0.15050574922317472,0.15050574922317472,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.9,0.8,ObservedRunwayOrder,Observed Runway Order,0.014760041691872061,0.014760041691872061,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.9,0.9,ObservedRunwayOrder,Observed Runway Order,-0.1209856658394306,-0.1209856658394306,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,0.9,1.0,ObservedRunwayOrder,Observed Runway Order,-0.25673137337073326,-0.25673137337073326,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,1.0,0.0,ObservedRunwayOrder,Observed Runway Order,1.1007257019422938,1.1007257019422938,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,1.0,0.1,ObservedRunwayOrder,Observed Runway Order,0.9649799944109911,0.9649799944109911,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,1.0,0.2,ObservedRunwayOrder,Observed Runway Order,0.8292342868796884,0.8292342868796884,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,1.0,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,0.6934885793483856,0.6934885793483856,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,1.0,0.4,ObservedRunwayOrder,Observed Runway Order,0.5577428718170829,0.5577428718170829,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,1.0,0.5,ObservedRunwayOrder,Observed Runway Order,0.42199716428578027,0.42199716428578027,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,1.0,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,0.2862514567544775,0.2862514567544775,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,1.0,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,0.15050574922317472,0.15050574922317472,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,1.0,0.8,ObservedRunwayOrder,Observed Runway Order,0.014760041691872061,0.014760041691872061,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,1.0,0.9,ObservedRunwayOrder,Observed Runway Order,-0.1209856658394306,-0.1209856658394306,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,high,1.0,1.0,ObservedRunwayOrder,Observed Runway Order,-0.25673137337073326,-0.25673137337073326,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.0,0.0,DemandFCFS,Demand FCFS,0.16636365870973743,0.15326447146039784,departure_blocked:CompletionGreedy,0.013099187249339589,0.013099187249339589
+2026_02,low,0.0,0.1,DemandFCFS,Demand FCFS,0.44494578127124296,0.433304164048539,departure_blocked:CompletionGreedy,0.01164161722270396,0.01164161722270396
+2026_02,low,0.0,0.2,DemandFCFS,Demand FCFS,0.7235279038327486,0.7133438566366801,departure_blocked:CompletionGreedy,0.010184047196068469,0.010184047196068469
+2026_02,low,0.0,0.30000000000000004,DemandFCFS,Demand FCFS,1.0021100263942542,0.9933835492248213,departure_blocked:CompletionGreedy,0.008726477169432867,0.008726477169432867
+2026_02,low,0.0,0.4,DemandFCFS,Demand FCFS,1.2806921489557597,1.2734232418129625,departure_blocked:CompletionGreedy,0.007268907142797154,0.007268907142797154
+2026_02,low,0.0,0.5,DemandFCFS,Demand FCFS,1.5592742715172652,1.5534629344011035,departure_blocked:CompletionGreedy,0.005811337116161663,0.005811337116161663
+2026_02,low,0.0,0.6000000000000001,DemandFCFS,Demand FCFS,1.8378563940787709,1.833502626989245,departure_blocked:CompletionGreedy,0.004353767089525951,0.004353767089525951
+2026_02,low,0.0,0.7000000000000001,ScheduleAware_m2K8,Schedule Aware,2.1061477082850635,2.0833888135564265,departure_blocked:ScheduleAware_m2K8,0.022758894728637014,0.022758894728637014
+2026_02,low,0.0,0.8,ScheduleAware_m2K8,Schedule Aware,2.330564667049177,2.3010899203324993,departure_blocked:ScheduleAware_m2K8,0.029474746716677824,0.029474746716677824
+2026_02,low,0.0,0.9,ScheduleAware_m2K8,Schedule Aware,2.5549816258132907,2.5187910271085716,departure_blocked:ScheduleAware_m2K8,0.03619059870471908,0.03619059870471908
+2026_02,low,0.0,1.0,ScheduleAware_m2K8,Schedule Aware,2.7793985845774043,2.7364921338846444,departure_blocked:ScheduleAware_m2K8,0.04290645069275989,0.04290645069275989
+2026_02,low,0.1,0.0,DemandFCFS,Demand FCFS,0.26786046440244204,0.2554531923776178,departure_blocked:CompletionGreedy,0.012407272024824223,0.012407272024824223
+2026_02,low,0.1,0.1,DemandFCFS,Demand FCFS,0.5464425869639475,0.535492884965759,departure_blocked:CompletionGreedy,0.010949701998188566,0.010949701998188566
+2026_02,low,0.1,0.2,DemandFCFS,Demand FCFS,0.8250247095254531,0.8155325775539002,departure_blocked:CompletionGreedy,0.009492131971552964,0.009492131971552964
+2026_02,low,0.1,0.30000000000000004,DemandFCFS,Demand FCFS,1.1036068320869588,1.0955722701420414,departure_blocked:CompletionGreedy,0.008034561944917362,0.008034561944917362
+2026_02,low,0.1,0.4,DemandFCFS,Demand FCFS,1.3821889546484643,1.3756119627301824,departure_blocked:CompletionGreedy,0.0065769919182818715,0.0065769919182818715
+2026_02,low,0.1,0.5,DemandFCFS,Demand FCFS,1.6607710772099697,1.6556516553183234,departure_blocked:CompletionGreedy,0.005119421891646381,0.005119421891646381
+2026_02,low,0.1,0.6000000000000001,DemandFCFS,Demand FCFS,1.9393531997714755,1.9304271126493207,departure_blocked:ScheduleAware_m2K8,0.008926087122154813,0.008926087122154813
+2026_02,low,0.1,0.7000000000000001,ScheduleAware_m2K8,Schedule Aware,2.178405130955575,2.1481282194253932,departure_blocked:ScheduleAware_m2K8,0.03027691153018175,0.03027691153018175
+2026_02,low,0.1,0.8,ScheduleAware_m2K8,Schedule Aware,2.4028220897196886,2.365829326201466,departure_blocked:ScheduleAware_m2K8,0.03699276351822256,0.03699276351822256
+2026_02,low,0.1,0.9,ScheduleAware_m2K8,Schedule Aware,2.627239048483802,2.583530432977539,departure_blocked:ScheduleAware_m2K8,0.04370861550626337,0.04370861550626337
+2026_02,low,0.1,1.0,ObservedRunwayOrder,Observed Runway Order,2.852036666099596,2.801231539753611,departure_blocked:ScheduleAware_m2K8,0.050805126345984775,0.050805126345984775
+2026_02,low,0.2,0.0,DemandFCFS,Demand FCFS,0.36935727009514663,0.3576419132948378,departure_blocked:CompletionGreedy,0.01171535680030883,0.01171535680030883
+2026_02,low,0.2,0.1,DemandFCFS,Demand FCFS,0.6479393926566521,0.637681605882979,departure_blocked:CompletionGreedy,0.010257786773673172,0.010257786773673172
+2026_02,low,0.2,0.2,DemandFCFS,Demand FCFS,0.9265215152181577,0.91772129847112,departure_blocked:CompletionGreedy,0.008800216747037681,0.008800216747037681
+2026_02,low,0.2,0.30000000000000004,DemandFCFS,Demand FCFS,1.2051036377796633,1.1977609910592613,departure_blocked:CompletionGreedy,0.0073426467204020796,0.0073426467204020796
+2026_02,low,0.2,0.4,DemandFCFS,Demand FCFS,1.4836857603411688,1.4778006836474025,departure_blocked:CompletionGreedy,0.005885076693766367,0.005885076693766367
+2026_02,low,0.2,0.5,DemandFCFS,Demand FCFS,1.7622678829026743,1.7578403762355435,departure_blocked:CompletionGreedy,0.004427506667130876,0.004427506667130876
+2026_02,low,0.2,0.6000000000000001,ScheduleAware_m2K8,Schedule Aware,2.026245594861973,1.9951665185182874,departure_blocked:ScheduleAware_m2K8,0.031079076343685452,0.031079076343685452
+2026_02,low,0.2,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,2.2606898323273947,2.21286762529436,departure_blocked:ScheduleAware_m2K8,0.04782220703303475,0.04782220703303475
+2026_02,low,0.2,0.8,ObservedRunwayOrder,Observed Runway Order,2.457805443584795,2.430568732070433,departure_blocked:ScheduleAware_m2K8,0.027236711514362355,0.027236711514362355
+2026_02,low,0.2,0.9,ObservedRunwayOrder,Observed Runway Order,2.6549210548421955,2.648269838846505,departure_blocked:ScheduleAware_m2K8,0.006651215995690407,0.006651215995690407
+2026_02,low,0.2,1.0,ObservedRunwayOrder,Observed Runway Order,2.852036666099596,2.852036666099596,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.30000000000000004,0.0,DemandFCFS,Demand FCFS,0.4708540757878512,0.45983063421205783,departure_blocked:CompletionGreedy,0.01102344157579338,0.01102344157579338
+2026_02,low,0.30000000000000004,0.1,DemandFCFS,Demand FCFS,0.7494361983493567,0.7398703268001989,departure_blocked:CompletionGreedy,0.009565871549157778,0.009565871549157778
+2026_02,low,0.30000000000000004,0.2,DemandFCFS,Demand FCFS,1.0280183209108622,1.0199100193883401,departure_blocked:CompletionGreedy,0.008108301522522066,0.008108301522522066
+2026_02,low,0.30000000000000004,0.30000000000000004,DemandFCFS,Demand FCFS,1.306600443472368,1.2999497119764813,departure_blocked:CompletionGreedy,0.006650731495886575,0.006650731495886575
+2026_02,low,0.30000000000000004,0.4,DemandFCFS,Demand FCFS,1.5851825660338734,1.5799894045646226,departure_blocked:CompletionGreedy,0.005193161469250862,0.005193161469250862
+2026_02,low,0.30000000000000004,0.5,ObservedRunwayOrder,Observed Runway Order,1.8664586098125941,1.8422048176111814,departure_blocked:ScheduleAware_m2K8,0.02425379220141277,0.02425379220141277
+2026_02,low,0.30000000000000004,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,2.0635742210699943,2.0599059243872544,departure_blocked:ScheduleAware_m2K8,0.0036682966827399355,0.0036682966827399355
+2026_02,low,0.30000000000000004,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,2.2606898323273947,2.2606898323273947,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.30000000000000004,0.8,ObservedRunwayOrder,Observed Runway Order,2.457805443584795,2.457805443584795,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.30000000000000004,0.9,ObservedRunwayOrder,Observed Runway Order,2.6549210548421955,2.6549210548421955,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.30000000000000004,1.0,ObservedRunwayOrder,Observed Runway Order,2.852036666099596,2.852036666099596,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.4,0.0,DemandFCFS,Demand FCFS,0.5723508814805558,0.5620193551292778,departure_blocked:CompletionGreedy,0.010331526351277986,0.010331526351277986
+2026_02,low,0.4,0.1,DemandFCFS,Demand FCFS,0.8509330040420613,0.842059047717419,departure_blocked:CompletionGreedy,0.008873956324642274,0.008873956324642274
+2026_02,low,0.4,0.2,DemandFCFS,Demand FCFS,1.1295151266035668,1.1220987403055602,departure_blocked:CompletionGreedy,0.007416386298006561,0.007416386298006561
+2026_02,low,0.4,0.30000000000000004,DemandFCFS,Demand FCFS,1.4080972491650725,1.4021384328937012,departure_blocked:CompletionGreedy,0.005958816271371292,0.005958816271371292
+2026_02,low,0.4,0.4,ObservedRunwayOrder,Observed Runway Order,1.669342998555194,1.669342998555194,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.4,0.5,ObservedRunwayOrder,Observed Runway Order,1.8664586098125941,1.8664586098125941,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.4,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,2.0635742210699943,2.0635742210699943,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.4,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,2.2606898323273947,2.2606898323273947,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.4,0.8,ObservedRunwayOrder,Observed Runway Order,2.457805443584795,2.457805443584795,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.4,0.9,ObservedRunwayOrder,Observed Runway Order,2.6549210548421955,2.6549210548421955,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.4,1.0,ObservedRunwayOrder,Observed Runway Order,2.852036666099596,2.852036666099596,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.5,0.0,DemandFCFS,Demand FCFS,0.6738476871732604,0.6642080760464977,departure_blocked:CompletionGreedy,0.009639611126762704,0.009639611126762704
+2026_02,low,0.5,0.1,DemandFCFS,Demand FCFS,0.9524298097347659,0.9442477686346389,departure_blocked:CompletionGreedy,0.008182041100126991,0.008182041100126991
+2026_02,low,0.5,0.2,DemandFCFS,Demand FCFS,1.2310119322962714,1.2242874612227799,departure_blocked:CompletionGreedy,0.0067244710734915,0.0067244710734915
+2026_02,low,0.5,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,1.4722273872977936,1.4722273872977936,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.5,0.4,ObservedRunwayOrder,Observed Runway Order,1.669342998555194,1.669342998555194,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.5,0.5,ObservedRunwayOrder,Observed Runway Order,1.8664586098125941,1.8664586098125941,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.5,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,2.0635742210699943,2.0635742210699943,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.5,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,2.2606898323273947,2.2606898323273947,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.5,0.8,ObservedRunwayOrder,Observed Runway Order,2.457805443584795,2.457805443584795,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.5,0.9,ObservedRunwayOrder,Observed Runway Order,2.6549210548421955,2.6549210548421955,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.5,1.0,ObservedRunwayOrder,Observed Runway Order,2.852036666099596,2.852036666099596,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.6000000000000001,0.0,DemandFCFS,Demand FCFS,0.7753444928659651,0.7663967969637178,departure_blocked:CompletionGreedy,0.00894769590224731,0.00894769590224731
+2026_02,low,0.6000000000000001,0.1,DemandFCFS,Demand FCFS,1.0539266154274707,1.046436489551859,departure_blocked:CompletionGreedy,0.007490125875611708,0.007490125875611708
+2026_02,low,0.6000000000000001,0.2,ObservedRunwayOrder,Observed Runway Order,1.2751117760403932,1.2751117760403932,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.6000000000000001,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,1.4722273872977936,1.4722273872977936,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.6000000000000001,0.4,ObservedRunwayOrder,Observed Runway Order,1.669342998555194,1.669342998555194,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.6000000000000001,0.5,ObservedRunwayOrder,Observed Runway Order,1.8664586098125941,1.8664586098125941,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.6000000000000001,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,2.0635742210699943,2.0635742210699943,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.6000000000000001,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,2.2606898323273947,2.2606898323273947,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.6000000000000001,0.8,ObservedRunwayOrder,Observed Runway Order,2.457805443584795,2.457805443584795,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.6000000000000001,0.9,ObservedRunwayOrder,Observed Runway Order,2.6549210548421955,2.6549210548421955,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.6000000000000001,1.0,ObservedRunwayOrder,Observed Runway Order,2.852036666099596,2.852036666099596,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.7000000000000001,0.0,DemandFCFS,Demand FCFS,0.8768412985586697,0.8685855178809379,departure_blocked:CompletionGreedy,0.008255780677731805,0.008255780677731805
+2026_02,low,0.7000000000000001,0.1,ObservedRunwayOrder,Observed Runway Order,1.077996164782993,1.077996164782993,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.7000000000000001,0.2,ObservedRunwayOrder,Observed Runway Order,1.2751117760403932,1.2751117760403932,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.7000000000000001,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,1.4722273872977936,1.4722273872977936,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.7000000000000001,0.4,ObservedRunwayOrder,Observed Runway Order,1.669342998555194,1.669342998555194,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.7000000000000001,0.5,ObservedRunwayOrder,Observed Runway Order,1.8664586098125941,1.8664586098125941,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.7000000000000001,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,2.0635742210699943,2.0635742210699943,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.7000000000000001,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,2.2606898323273947,2.2606898323273947,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.7000000000000001,0.8,ObservedRunwayOrder,Observed Runway Order,2.457805443584795,2.457805443584795,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.7000000000000001,0.9,ObservedRunwayOrder,Observed Runway Order,2.6549210548421955,2.6549210548421955,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.7000000000000001,1.0,ObservedRunwayOrder,Observed Runway Order,2.852036666099596,2.852036666099596,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.8,0.0,ObservedRunwayOrder,Observed Runway Order,0.8808805535255926,0.8808805535255926,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.8,0.1,ObservedRunwayOrder,Observed Runway Order,1.077996164782993,1.077996164782993,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.8,0.2,ObservedRunwayOrder,Observed Runway Order,1.2751117760403932,1.2751117760403932,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.8,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,1.4722273872977936,1.4722273872977936,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.8,0.4,ObservedRunwayOrder,Observed Runway Order,1.669342998555194,1.669342998555194,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.8,0.5,ObservedRunwayOrder,Observed Runway Order,1.8664586098125941,1.8664586098125941,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.8,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,2.0635742210699943,2.0635742210699943,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.8,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,2.2606898323273947,2.2606898323273947,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.8,0.8,ObservedRunwayOrder,Observed Runway Order,2.457805443584795,2.457805443584795,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.8,0.9,ObservedRunwayOrder,Observed Runway Order,2.6549210548421955,2.6549210548421955,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.8,1.0,ObservedRunwayOrder,Observed Runway Order,2.852036666099596,2.852036666099596,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.9,0.0,ObservedRunwayOrder,Observed Runway Order,0.8808805535255926,0.8808805535255926,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.9,0.1,ObservedRunwayOrder,Observed Runway Order,1.077996164782993,1.077996164782993,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.9,0.2,ObservedRunwayOrder,Observed Runway Order,1.2751117760403932,1.2751117760403932,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.9,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,1.4722273872977936,1.4722273872977936,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.9,0.4,ObservedRunwayOrder,Observed Runway Order,1.669342998555194,1.669342998555194,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.9,0.5,ObservedRunwayOrder,Observed Runway Order,1.8664586098125941,1.8664586098125941,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.9,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,2.0635742210699943,2.0635742210699943,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.9,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,2.2606898323273947,2.2606898323273947,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.9,0.8,ObservedRunwayOrder,Observed Runway Order,2.457805443584795,2.457805443584795,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.9,0.9,ObservedRunwayOrder,Observed Runway Order,2.6549210548421955,2.6549210548421955,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,0.9,1.0,ObservedRunwayOrder,Observed Runway Order,2.852036666099596,2.852036666099596,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,1.0,0.0,ObservedRunwayOrder,Observed Runway Order,0.8808805535255926,0.8808805535255926,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,1.0,0.1,ObservedRunwayOrder,Observed Runway Order,1.077996164782993,1.077996164782993,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,1.0,0.2,ObservedRunwayOrder,Observed Runway Order,1.2751117760403932,1.2751117760403932,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,1.0,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,1.4722273872977936,1.4722273872977936,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,1.0,0.4,ObservedRunwayOrder,Observed Runway Order,1.669342998555194,1.669342998555194,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,1.0,0.5,ObservedRunwayOrder,Observed Runway Order,1.8664586098125941,1.8664586098125941,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,1.0,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,2.0635742210699943,2.0635742210699943,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,1.0,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,2.2606898323273947,2.2606898323273947,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,1.0,0.8,ObservedRunwayOrder,Observed Runway Order,2.457805443584795,2.457805443584795,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,1.0,0.9,ObservedRunwayOrder,Observed Runway Order,2.6549210548421955,2.6549210548421955,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,low,1.0,1.0,ObservedRunwayOrder,Observed Runway Order,2.852036666099596,2.852036666099596,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.0,0.0,DemandFCFS,Demand FCFS,0.30904907654590685,0.27630947204719863,departure_blocked:CompletionGreedy,0.03273960449870822,0.03273960449870822
+2026_02,medium,0.0,0.1,DemandFCFS,Demand FCFS,0.3198325916049212,0.29066015489063113,departure_blocked:CompletionGreedy,0.029172436714290095,0.029172436714290095
+2026_02,medium,0.0,0.2,DemandFCFS,Demand FCFS,0.33061610666393554,0.30501083773406357,departure_blocked:CompletionGreedy,0.02560526892987197,0.02560526892987197
+2026_02,medium,0.0,0.30000000000000004,DemandFCFS,Demand FCFS,0.3413996217229499,0.31936152057749606,departure_blocked:CompletionGreedy,0.022038101145453848,0.022038101145453848
+2026_02,medium,0.0,0.4,DemandFCFS,Demand FCFS,0.3521831367819642,0.33371220342092855,departure_blocked:CompletionGreedy,0.01847093336103567,0.01847093336103567
+2026_02,medium,0.0,0.5,DemandFCFS,Demand FCFS,0.3629666518409786,0.348062886264361,departure_blocked:CompletionGreedy,0.0149037655766176,0.0149037655766176
+2026_02,medium,0.0,0.6000000000000001,DemandFCFS,Demand FCFS,0.37375016689999296,0.3624135691077935,departure_blocked:CompletionGreedy,0.011336597792199476,0.011336597792199476
+2026_02,medium,0.0,0.7000000000000001,DemandFCFS,Demand FCFS,0.3845336819590073,0.376764251951226,departure_blocked:CompletionGreedy,0.007769430007781297,0.007769430007781297
+2026_02,medium,0.0,0.8,DemandFCFS,Demand FCFS,0.39531719701802165,0.3427384026644504,departure_blocked:ScheduleAware_m2K8,0.05257879435357127,0.05257879435357127
+2026_02,medium,0.0,0.9,ScheduleAware_m2K8,Schedule Aware,0.3630382889432574,0.2963079479510474,departure_blocked:ScheduleAware_m2K8,0.06673034099220998,0.06673034099220998
+2026_02,medium,0.0,1.0,ScheduleAware_m2K8,Schedule Aware,0.3238028552565512,0.24987749323764447,departure_blocked:ScheduleAware_m2K8,0.07392536201890676,0.07392536201890676
+2026_02,medium,0.1,0.0,DemandFCFS,Demand FCFS,0.4104027273645738,0.37857931405970663,departure_blocked:CompletionGreedy,0.031823413304867154,0.031823413304867154
+2026_02,medium,0.1,0.1,DemandFCFS,Demand FCFS,0.42118624242358815,0.3929299969031391,departure_blocked:CompletionGreedy,0.02825624552044903,0.02825624552044903
+2026_02,medium,0.1,0.2,DemandFCFS,Demand FCFS,0.43196975748260247,0.40728067974657156,departure_blocked:CompletionGreedy,0.024689077736030907,0.024689077736030907
+2026_02,medium,0.1,0.30000000000000004,DemandFCFS,Demand FCFS,0.44275327254161684,0.42163136259000406,departure_blocked:CompletionGreedy,0.021121909951612783,0.021121909951612783
+2026_02,medium,0.1,0.4,DemandFCFS,Demand FCFS,0.4535367876006312,0.43598204543343655,departure_blocked:CompletionGreedy,0.01755474216719466,0.01755474216719466
+2026_02,medium,0.1,0.5,DemandFCFS,Demand FCFS,0.4643203026596455,0.450332728276869,departure_blocked:CompletionGreedy,0.013987574382776535,0.013987574382776535
+2026_02,medium,0.1,0.6000000000000001,DemandFCFS,Demand FCFS,0.4751038177186599,0.4646834111203015,departure_blocked:CompletionGreedy,0.010420406598358412,0.010420406598358412
+2026_02,medium,0.1,0.7000000000000001,DemandFCFS,Demand FCFS,0.48588733277767426,0.4491030313082891,departure_blocked:ScheduleAware_m2K8,0.03678430146938516,0.03678430146938516
+2026_02,medium,0.1,0.8,ScheduleAware_m2K8,Schedule Aware,0.47437844676816826,0.40267257659488614,departure_blocked:ScheduleAware_m2K8,0.07170587017328212,0.07170587017328212
+2026_02,medium,0.1,0.9,ScheduleAware_m2K8,Schedule Aware,0.4351430130814621,0.3562421218814832,departure_blocked:ScheduleAware_m2K8,0.0789008911999789,0.0789008911999789
+2026_02,medium,0.1,1.0,ObservedRunwayOrder,Observed Runway Order,0.41336182019093326,0.30981166716808023,departure_blocked:ScheduleAware_m2K8,0.10355015302285303,0.10355015302285303
+2026_02,medium,0.2,0.0,DemandFCFS,Demand FCFS,0.5117563781832407,0.48084915607221457,departure_blocked:CompletionGreedy,0.030907222111026145,0.030907222111026145
+2026_02,medium,0.2,0.1,DemandFCFS,Demand FCFS,0.522539893242255,0.49519983891564706,departure_blocked:CompletionGreedy,0.027340054326607965,0.027340054326607965
+2026_02,medium,0.2,0.2,DemandFCFS,Demand FCFS,0.5333234083012695,0.5095505217590796,departure_blocked:CompletionGreedy,0.023772886542189897,0.023772886542189897
+2026_02,medium,0.2,0.30000000000000004,DemandFCFS,Demand FCFS,0.5441069233602838,0.523901204602512,departure_blocked:CompletionGreedy,0.020205718757771773,0.020205718757771773
+2026_02,medium,0.2,0.4,DemandFCFS,Demand FCFS,0.5548904384192981,0.5382518874459444,departure_blocked:CompletionGreedy,0.01663855097335365,0.01663855097335365
+2026_02,medium,0.2,0.5,DemandFCFS,Demand FCFS,0.5656739534783125,0.552602570289377,departure_blocked:CompletionGreedy,0.013071383188935526,0.013071383188935526
+2026_02,medium,0.2,0.6000000000000001,DemandFCFS,Demand FCFS,0.5764574685373268,0.555467659952128,departure_blocked:ScheduleAware_m2K8,0.020989808585198833,0.020989808585198833
+2026_02,medium,0.2,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,0.5946629994892688,0.509037205238725,departure_blocked:ScheduleAware_m2K8,0.08562579425054384,0.08562579425054384
+2026_02,medium,0.2,0.8,ObservedRunwayOrder,Observed Runway Order,0.5342292730564904,0.462606750525322,departure_blocked:ScheduleAware_m2K8,0.07162252253116835,0.07162252253116835
+2026_02,medium,0.2,0.9,ObservedRunwayOrder,Observed Runway Order,0.4737955466237118,0.41617629581191906,departure_blocked:ScheduleAware_m2K8,0.057619250811792755,0.057619250811792755
+2026_02,medium,0.2,1.0,ObservedRunwayOrder,Observed Runway Order,0.41336182019093326,0.3697458410985161,departure_blocked:ScheduleAware_m2K8,0.043615979092417156,0.043615979092417156
+2026_02,medium,0.30000000000000004,0.0,DemandFCFS,Demand FCFS,0.6131100290019077,0.5831189980847227,departure_blocked:CompletionGreedy,0.029991030917185024,0.029991030917185024
+2026_02,medium,0.30000000000000004,0.1,DemandFCFS,Demand FCFS,0.623893544060922,0.5974696809281551,departure_blocked:CompletionGreedy,0.0264238631327669,0.0264238631327669
+2026_02,medium,0.30000000000000004,0.2,DemandFCFS,Demand FCFS,0.6346770591199364,0.6118203637715877,departure_blocked:CompletionGreedy,0.022856695348348777,0.022856695348348777
+2026_02,medium,0.30000000000000004,0.30000000000000004,DemandFCFS,Demand FCFS,0.6454605741789508,0.6261710466150201,departure_blocked:CompletionGreedy,0.019289527563930653,0.019289527563930653
+2026_02,medium,0.30000000000000004,0.4,DemandFCFS,Demand FCFS,0.6562440892379651,0.6405217294584525,departure_blocked:CompletionGreedy,0.01572235977951253,0.01572235977951253
+2026_02,medium,0.30000000000000004,0.5,DemandFCFS,Demand FCFS,0.6670276042969795,0.6548724123018851,departure_blocked:CompletionGreedy,0.012155191995094405,0.012155191995094405
+2026_02,medium,0.30000000000000004,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,0.6550967259220473,0.6154018338825638,departure_blocked:ScheduleAware_m2K8,0.03969489203948351,0.03969489203948351
+2026_02,medium,0.30000000000000004,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,0.5946629994892688,0.5689713791691609,departure_blocked:ScheduleAware_m2K8,0.025691620320107966,0.025691620320107966
+2026_02,medium,0.30000000000000004,0.8,ObservedRunwayOrder,Observed Runway Order,0.5342292730564904,0.522540924455758,departure_blocked:ScheduleAware_m2K8,0.011688348600732423,0.011688348600732423
+2026_02,medium,0.30000000000000004,0.9,ObservedRunwayOrder,Observed Runway Order,0.4737955466237118,0.4737955466237118,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.30000000000000004,1.0,ObservedRunwayOrder,Observed Runway Order,0.41336182019093326,0.41336182019093326,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.4,0.0,DemandFCFS,Demand FCFS,0.7144636798205746,0.6853888400972306,departure_blocked:CompletionGreedy,0.029074839723344015,0.029074839723344015
+2026_02,medium,0.4,0.1,DemandFCFS,Demand FCFS,0.7252471948795889,0.699739522940663,departure_blocked:CompletionGreedy,0.02550767193892589,0.02550767193892589
+2026_02,medium,0.4,0.2,DemandFCFS,Demand FCFS,0.7360307099386033,0.7140902057840955,departure_blocked:CompletionGreedy,0.021940504154507767,0.021940504154507767
+2026_02,medium,0.4,0.30000000000000004,DemandFCFS,Demand FCFS,0.7468142249976176,0.728440888627528,departure_blocked:CompletionGreedy,0.018373336370089643,0.018373336370089643
+2026_02,medium,0.4,0.4,DemandFCFS,Demand FCFS,0.7575977400566319,0.7427915714709604,departure_blocked:CompletionGreedy,0.01480616858567152,0.01480616858567152
+2026_02,medium,0.4,0.5,ObservedRunwayOrder,Observed Runway Order,0.7155304523548259,0.7155304523548259,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.4,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,0.6550967259220473,0.6550967259220473,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.4,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,0.5946629994892688,0.5946629994892688,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.4,0.8,ObservedRunwayOrder,Observed Runway Order,0.5342292730564904,0.5342292730564904,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.4,0.9,ObservedRunwayOrder,Observed Runway Order,0.4737955466237118,0.4737955466237118,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.4,1.0,ObservedRunwayOrder,Observed Runway Order,0.41336182019093326,0.41336182019093326,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.5,0.0,DemandFCFS,Demand FCFS,0.8158173306392416,0.7876586821097384,departure_blocked:CompletionGreedy,0.028158648529503116,0.028158648529503116
+2026_02,medium,0.5,0.1,DemandFCFS,Demand FCFS,0.8266008456982559,0.8020093649531709,departure_blocked:CompletionGreedy,0.024591480745084993,0.024591480745084993
+2026_02,medium,0.5,0.2,DemandFCFS,Demand FCFS,0.8373843607572703,0.8163600477966034,departure_blocked:CompletionGreedy,0.02102431296066687,0.02102431296066687
+2026_02,medium,0.5,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,0.8363979052203829,0.8307107306400359,departure_blocked:CompletionGreedy,0.005687174580347065,0.005687174580347065
+2026_02,medium,0.5,0.4,ObservedRunwayOrder,Observed Runway Order,0.7759641787876045,0.7759641787876045,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.5,0.5,ObservedRunwayOrder,Observed Runway Order,0.7155304523548259,0.7155304523548259,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.5,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,0.6550967259220473,0.6550967259220473,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.5,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,0.5946629994892688,0.5946629994892688,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.5,0.8,ObservedRunwayOrder,Observed Runway Order,0.5342292730564904,0.5342292730564904,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.5,0.9,ObservedRunwayOrder,Observed Runway Order,0.4737955466237118,0.4737955466237118,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.5,1.0,ObservedRunwayOrder,Observed Runway Order,0.41336182019093326,0.41336182019093326,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.6000000000000001,0.0,DemandFCFS,Demand FCFS,0.9171709814579085,0.8899285241222465,departure_blocked:CompletionGreedy,0.027242457335661996,0.027242457335661996
+2026_02,medium,0.6000000000000001,0.1,DemandFCFS,Demand FCFS,0.9279544965169229,0.904279206965679,departure_blocked:CompletionGreedy,0.023675289551243872,0.023675289551243872
+2026_02,medium,0.6000000000000001,0.2,ObservedRunwayOrder,Observed Runway Order,0.8968316316531615,0.8968316316531615,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.6000000000000001,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,0.8363979052203829,0.8363979052203829,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.6000000000000001,0.4,ObservedRunwayOrder,Observed Runway Order,0.7759641787876045,0.7759641787876045,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.6000000000000001,0.5,ObservedRunwayOrder,Observed Runway Order,0.7155304523548259,0.7155304523548259,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.6000000000000001,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,0.6550967259220473,0.6550967259220473,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.6000000000000001,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,0.5946629994892688,0.5946629994892688,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.6000000000000001,0.8,ObservedRunwayOrder,Observed Runway Order,0.5342292730564904,0.5342292730564904,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.6000000000000001,0.9,ObservedRunwayOrder,Observed Runway Order,0.4737955466237118,0.4737955466237118,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.6000000000000001,1.0,ObservedRunwayOrder,Observed Runway Order,0.41336182019093326,0.41336182019093326,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.7000000000000001,0.0,DemandFCFS,Demand FCFS,1.0185246322765755,0.9921983661347544,departure_blocked:CompletionGreedy,0.026326266141821097,0.026326266141821097
+2026_02,medium,0.7000000000000001,0.1,ObservedRunwayOrder,Observed Runway Order,0.95726535808594,0.95726535808594,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.7000000000000001,0.2,ObservedRunwayOrder,Observed Runway Order,0.8968316316531615,0.8968316316531615,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.7000000000000001,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,0.8363979052203829,0.8363979052203829,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.7000000000000001,0.4,ObservedRunwayOrder,Observed Runway Order,0.7759641787876045,0.7759641787876045,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.7000000000000001,0.5,ObservedRunwayOrder,Observed Runway Order,0.7155304523548259,0.7155304523548259,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.7000000000000001,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,0.6550967259220473,0.6550967259220473,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.7000000000000001,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,0.5946629994892688,0.5946629994892688,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.7000000000000001,0.8,ObservedRunwayOrder,Observed Runway Order,0.5342292730564904,0.5342292730564904,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.7000000000000001,0.9,ObservedRunwayOrder,Observed Runway Order,0.4737955466237118,0.4737955466237118,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.7000000000000001,1.0,ObservedRunwayOrder,Observed Runway Order,0.41336182019093326,0.41336182019093326,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.8,0.0,ObservedRunwayOrder,Observed Runway Order,1.0176990845187186,1.0176990845187186,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.8,0.1,ObservedRunwayOrder,Observed Runway Order,0.95726535808594,0.95726535808594,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.8,0.2,ObservedRunwayOrder,Observed Runway Order,0.8968316316531615,0.8968316316531615,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.8,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,0.8363979052203829,0.8363979052203829,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.8,0.4,ObservedRunwayOrder,Observed Runway Order,0.7759641787876045,0.7759641787876045,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.8,0.5,ObservedRunwayOrder,Observed Runway Order,0.7155304523548259,0.7155304523548259,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.8,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,0.6550967259220473,0.6550967259220473,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.8,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,0.5946629994892688,0.5946629994892688,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.8,0.8,ObservedRunwayOrder,Observed Runway Order,0.5342292730564904,0.5342292730564904,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.8,0.9,ObservedRunwayOrder,Observed Runway Order,0.4737955466237118,0.4737955466237118,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.8,1.0,ObservedRunwayOrder,Observed Runway Order,0.41336182019093326,0.41336182019093326,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.9,0.0,ObservedRunwayOrder,Observed Runway Order,1.0176990845187186,1.0176990845187186,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.9,0.1,ObservedRunwayOrder,Observed Runway Order,0.95726535808594,0.95726535808594,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.9,0.2,ObservedRunwayOrder,Observed Runway Order,0.8968316316531615,0.8968316316531615,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.9,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,0.8363979052203829,0.8363979052203829,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.9,0.4,ObservedRunwayOrder,Observed Runway Order,0.7759641787876045,0.7759641787876045,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.9,0.5,ObservedRunwayOrder,Observed Runway Order,0.7155304523548259,0.7155304523548259,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.9,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,0.6550967259220473,0.6550967259220473,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.9,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,0.5946629994892688,0.5946629994892688,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.9,0.8,ObservedRunwayOrder,Observed Runway Order,0.5342292730564904,0.5342292730564904,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.9,0.9,ObservedRunwayOrder,Observed Runway Order,0.4737955466237118,0.4737955466237118,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,0.9,1.0,ObservedRunwayOrder,Observed Runway Order,0.41336182019093326,0.41336182019093326,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,1.0,0.0,ObservedRunwayOrder,Observed Runway Order,1.0176990845187186,1.0176990845187186,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,1.0,0.1,ObservedRunwayOrder,Observed Runway Order,0.95726535808594,0.95726535808594,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,1.0,0.2,ObservedRunwayOrder,Observed Runway Order,0.8968316316531615,0.8968316316531615,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,1.0,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,0.8363979052203829,0.8363979052203829,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,1.0,0.4,ObservedRunwayOrder,Observed Runway Order,0.7759641787876045,0.7759641787876045,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,1.0,0.5,ObservedRunwayOrder,Observed Runway Order,0.7155304523548259,0.7155304523548259,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,1.0,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,0.6550967259220473,0.6550967259220473,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,1.0,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,0.5946629994892688,0.5946629994892688,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,1.0,0.8,ObservedRunwayOrder,Observed Runway Order,0.5342292730564904,0.5342292730564904,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,1.0,0.9,ObservedRunwayOrder,Observed Runway Order,0.4737955466237118,0.4737955466237118,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_02,medium,1.0,1.0,ObservedRunwayOrder,Observed Runway Order,0.41336182019093326,0.41336182019093326,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.0,0.0,DemandFCFS,Demand FCFS,0.3775258405910806,0.318108403551668,departure_blocked:CompletionGreedy,0.0594174370394126,0.0594174370394126
+2026_03,all,0.0,0.1,DemandFCFS,Demand FCFS,0.43142904712158336,0.37873279358752066,departure_blocked:CompletionGreedy,0.05269625353406271,0.05269625353406271
+2026_03,all,0.0,0.2,DemandFCFS,Demand FCFS,0.4853322536520862,0.43935718362337334,departure_blocked:CompletionGreedy,0.04597507002871287,0.04597507002871287
+2026_03,all,0.0,0.30000000000000004,DemandFCFS,Demand FCFS,0.539235460182589,0.499981573659226,departure_blocked:CompletionGreedy,0.039253886523363035,0.039253886523363035
+2026_03,all,0.0,0.4,DemandFCFS,Demand FCFS,0.5931386667130918,0.5606059636950786,departure_blocked:CompletionGreedy,0.03253270301801314,0.03253270301801314
+2026_03,all,0.0,0.5,DemandFCFS,Demand FCFS,0.6470418732435945,0.6212303537309314,departure_blocked:CompletionGreedy,0.02581151951266314,0.02581151951266314
+2026_03,all,0.0,0.6000000000000001,DemandFCFS,Demand FCFS,0.7009450797740975,0.6818547437667841,departure_blocked:CompletionGreedy,0.019090336007313358,0.019090336007313358
+2026_03,all,0.0,0.7000000000000001,DemandFCFS,Demand FCFS,0.7548482863046002,0.7424791338026369,departure_blocked:CompletionGreedy,0.012369152501963354,0.012369152501963354
+2026_03,all,0.0,0.8,DemandFCFS,Demand FCFS,0.808751492835103,0.7715411379198485,departure_blocked:ScheduleAware_m2K8,0.037210354915254484,0.037210354915254484
+2026_03,all,0.0,0.9,DemandFCFS,Demand FCFS,0.8626546993656058,0.7874108077634168,departure_blocked:ScheduleAware_m2K8,0.07524389160218903,0.07524389160218903
+2026_03,all,0.0,1.0,ScheduleAware_m2K8,Schedule Aware,0.8919585523817926,0.8032804776069851,departure_blocked:ScheduleAware_m2K8,0.08867807477480749,0.08867807477480749
+2026_03,all,0.1,0.0,DemandFCFS,Demand FCFS,0.476807819727332,0.418108403551668,departure_blocked:CompletionGreedy,0.05869941617566399,0.05869941617566399
+2026_03,all,0.1,0.1,DemandFCFS,Demand FCFS,0.5307110262578348,0.4787327935875207,departure_blocked:CompletionGreedy,0.05197823267031415,0.05197823267031415
+2026_03,all,0.1,0.2,DemandFCFS,Demand FCFS,0.5846142327883376,0.5393571836233734,departure_blocked:CompletionGreedy,0.0452570491649642,0.0452570491649642
+2026_03,all,0.1,0.30000000000000004,DemandFCFS,Demand FCFS,0.6385174393188404,0.5999815736592261,departure_blocked:CompletionGreedy,0.03853586565961431,0.03853586565961431
+2026_03,all,0.1,0.4,DemandFCFS,Demand FCFS,0.6924206458493432,0.6606059636950787,departure_blocked:CompletionGreedy,0.03181468215426442,0.03181468215426442
+2026_03,all,0.1,0.5,DemandFCFS,Demand FCFS,0.746323852379846,0.7212303537309315,departure_blocked:CompletionGreedy,0.025093498648914525,0.025093498648914525
+2026_03,all,0.1,0.6000000000000001,DemandFCFS,Demand FCFS,0.8002270589103488,0.7818547437667842,departure_blocked:CompletionGreedy,0.018372315143564633,0.018372315143564633
+2026_03,all,0.1,0.7000000000000001,DemandFCFS,Demand FCFS,0.8541302654408516,0.817698649346686,departure_blocked:ScheduleAware_m2K8,0.036431616094165564,0.036431616094165564
+2026_03,all,0.1,0.8,DemandFCFS,Demand FCFS,0.9080334719713544,0.8335683191902543,departure_blocked:ScheduleAware_m2K8,0.07446515278110011,0.07446515278110011
+2026_03,all,0.1,0.9,ScheduleAware_m2K8,Schedule Aware,0.9443180454587758,0.8494379890338226,departure_blocked:ScheduleAware_m2K8,0.09488005642495323,0.09488005642495323
+2026_03,all,0.1,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,0.8653076588773909,departure_blocked:ScheduleAware_m2K8,0.13469234112260908,0.13469234112260908
+2026_03,all,0.2,0.0,CompletionGreedy,Completion Greedy,0.5740727220343843,0.518108403551668,departure_blocked:CompletionGreedy,0.055964318482716324,0.055964318482716324
+2026_03,all,0.2,0.1,CompletionGreedy,Completion Greedy,0.6285791081693588,0.5787327935875206,departure_blocked:CompletionGreedy,0.04984631458183819,0.04984631458183819
+2026_03,all,0.2,0.2,DemandFCFS,Demand FCFS,0.683896211924589,0.6393571836233733,departure_blocked:CompletionGreedy,0.0445390283012157,0.0445390283012157
+2026_03,all,0.2,0.30000000000000004,DemandFCFS,Demand FCFS,0.7377994184550919,0.6999815736592261,departure_blocked:CompletionGreedy,0.03781784479586581,0.03781784479586581
+2026_03,all,0.2,0.4,DemandFCFS,Demand FCFS,0.7917026249855947,0.7606059636950787,departure_blocked:CompletionGreedy,0.031096661290516026,0.031096661290516026
+2026_03,all,0.2,0.5,DemandFCFS,Demand FCFS,0.8456058315160975,0.8212303537309313,departure_blocked:CompletionGreedy,0.024375477785166133,0.024375477785166133
+2026_03,all,0.2,0.6000000000000001,DemandFCFS,Demand FCFS,0.8995090380466003,0.8638561607735236,departure_blocked:ScheduleAware_m2K8,0.035652877273076755,0.035652877273076755
+2026_03,all,0.2,0.7000000000000001,DemandFCFS,Demand FCFS,0.9534122445771032,0.8797258306170919,departure_blocked:ScheduleAware_m2K8,0.0736864139600113,0.0736864139600113
+2026_03,all,0.2,0.8,ObservedRunwayOrder,Observed Runway Order,1.0,0.8955955004606602,departure_blocked:ScheduleAware_m2K8,0.10440449953933983,0.10440449953933983
+2026_03,all,0.2,0.9,ObservedRunwayOrder,Observed Runway Order,1.0,0.9114651703042285,departure_blocked:ScheduleAware_m2K8,0.08853482969577153,0.08853482969577153
+2026_03,all,0.2,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,0.9273348401477968,departure_blocked:ScheduleAware_m2K8,0.07266515985220323,0.07266515985220323
+2026_03,all,0.30000000000000004,0.0,CompletionGreedy,Completion Greedy,0.6729366298728894,0.618108403551668,departure_blocked:CompletionGreedy,0.05482822632122142,0.05482822632122142
+2026_03,all,0.30000000000000004,0.1,CompletionGreedy,Completion Greedy,0.7274430160078639,0.6787327935875207,departure_blocked:CompletionGreedy,0.048710222420343174,0.048710222420343174
+2026_03,all,0.30000000000000004,0.2,CompletionGreedy,Completion Greedy,0.7819494021428384,0.7393571836233733,departure_blocked:CompletionGreedy,0.04259221851946504,0.04259221851946504
+2026_03,all,0.30000000000000004,0.30000000000000004,DemandFCFS,Demand FCFS,0.8370813975913434,0.7999815736592261,departure_blocked:CompletionGreedy,0.037099823932117304,0.037099823932117304
+2026_03,all,0.30000000000000004,0.4,DemandFCFS,Demand FCFS,0.8909846041218461,0.8606059636950787,departure_blocked:CompletionGreedy,0.03037864042676741,0.03037864042676741
+2026_03,all,0.30000000000000004,0.5,DemandFCFS,Demand FCFS,0.944887810652349,0.9100136722003612,departure_blocked:ScheduleAware_m2K8,0.034874138451987724,0.034874138451987724
+2026_03,all,0.30000000000000004,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,0.9258833420439295,departure_blocked:ScheduleAware_m2K8,0.07411665795607048,0.07411665795607048
+2026_03,all,0.30000000000000004,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,0.9417530118874978,departure_blocked:ScheduleAware_m2K8,0.058246988112502174,0.058246988112502174
+2026_03,all,0.30000000000000004,0.8,ObservedRunwayOrder,Observed Runway Order,1.0,0.9576226817310661,departure_blocked:ScheduleAware_m2K8,0.04237731826893387,0.04237731826893387
+2026_03,all,0.30000000000000004,0.9,ObservedRunwayOrder,Observed Runway Order,1.0,0.9734923515746345,departure_blocked:ScheduleAware_m2K8,0.02650764842536546,0.02650764842536546
+2026_03,all,0.30000000000000004,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,0.9893620214182028,departure_blocked:ScheduleAware_m2K8,0.010637978581797158,0.010637978581797158
+2026_03,all,0.4,0.0,CompletionGreedy,Completion Greedy,0.7718005377113943,0.718108403551668,departure_blocked:CompletionGreedy,0.05369213415972629,0.05369213415972629
+2026_03,all,0.4,0.1,CompletionGreedy,Completion Greedy,0.8263069238463688,0.7787327935875208,departure_blocked:CompletionGreedy,0.047574130258848046,0.047574130258848046
+2026_03,all,0.4,0.2,CompletionGreedy,Completion Greedy,0.8808133099813433,0.8393571836233734,departure_blocked:CompletionGreedy,0.041456126357969914,0.041456126357969914
+2026_03,all,0.4,0.30000000000000004,CompletionGreedy,Completion Greedy,0.9353196961163177,0.8999815736592262,departure_blocked:CompletionGreedy,0.03533812245709156,0.03533812245709156
+2026_03,all,0.4,0.4,ObservedRunwayOrder,Observed Runway Order,1.0,0.9561711836271988,departure_blocked:ScheduleAware_m2K8,0.04382881637280123,0.04382881637280123
+2026_03,all,0.4,0.5,ObservedRunwayOrder,Observed Runway Order,1.0,0.9720408534707671,departure_blocked:ScheduleAware_m2K8,0.027959146529232926,0.027959146529232926
+2026_03,all,0.4,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,0.9879105233143354,departure_blocked:ScheduleAware_m2K8,0.012089476685664624,0.012089476685664624
+2026_03,all,0.4,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.4,0.8,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.4,0.9,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.4,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.5,0.0,CompletionGreedy,Completion Greedy,0.8706644455498993,0.8181084035516679,departure_blocked:CompletionGreedy,0.052556041998231384,0.052556041998231384
+2026_03,all,0.5,0.1,CompletionGreedy,Completion Greedy,0.9251708316848738,0.8787327935875207,departure_blocked:CompletionGreedy,0.04643803809735314,0.04643803809735314
+2026_03,all,0.5,0.2,CompletionGreedy,Completion Greedy,0.9796772178198483,0.9393571836233733,departure_blocked:CompletionGreedy,0.04032003419647501,0.04032003419647501
+2026_03,all,0.5,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,1.0,0.9859157148060886,departure_blocked:CPSDelay_m2K8,0.014084285193911361,0.014084285193911361
+2026_03,all,0.5,0.4,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.5,0.5,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.5,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.5,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.5,0.8,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.5,0.9,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.5,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.6000000000000001,0.0,CompletionGreedy,Completion Greedy,0.9695283533884045,0.918108403551668,departure_blocked:CompletionGreedy,0.05141994983673648,0.05141994983673648
+2026_03,all,0.6000000000000001,0.1,ObservedRunwayOrder,Observed Runway Order,1.0,0.9765979775991174,departure_blocked:CPSDelay_m2K8,0.023402022400882627,0.023402022400882627
+2026_03,all,0.6000000000000001,0.2,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.6000000000000001,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.6000000000000001,0.4,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.6000000000000001,0.5,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.6000000000000001,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.6000000000000001,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.6000000000000001,0.8,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.6000000000000001,0.9,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.6000000000000001,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.7000000000000001,0.0,ObservedRunwayOrder,Observed Runway Order,1.0,0.9959656001165937,departure_blocked:CPSDelay_m2K8,0.004034399883406259,0.004034399883406259
+2026_03,all,0.7000000000000001,0.1,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.7000000000000001,0.2,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.7000000000000001,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.7000000000000001,0.4,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.7000000000000001,0.5,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.7000000000000001,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.7000000000000001,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.7000000000000001,0.8,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.7000000000000001,0.9,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.7000000000000001,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.8,0.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.8,0.1,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.8,0.2,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.8,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.8,0.4,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.8,0.5,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.8,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.8,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.8,0.8,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.8,0.9,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.8,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.9,0.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.9,0.1,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.9,0.2,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.9,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.9,0.4,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.9,0.5,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.9,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.9,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.9,0.8,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.9,0.9,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,0.9,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,1.0,0.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,1.0,0.1,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,1.0,0.2,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,1.0,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,1.0,0.4,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,1.0,0.5,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,1.0,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,1.0,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,1.0,0.8,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,1.0,0.9,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,all,1.0,1.0,ObservedRunwayOrder,Observed Runway Order,1.0,1.0,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.0,0.0,DemandFCFS,Demand FCFS,0.5749733350376259,0.4571281741675828,departure_blocked:CompletionGreedy,0.11784516087004315,0.11784516087004315
+2026_03,high,0.0,0.1,DemandFCFS,Demand FCFS,-0.018111799964433573,-0.12260199129226101,departure_blocked:CompletionGreedy,0.10449019132782744,0.10449019132782744
+2026_03,high,0.0,0.2,DemandFCFS,Demand FCFS,-0.6111969349664931,-0.7023321567521048,departure_blocked:CompletionGreedy,0.09113522178561173,0.09113522178561173
+2026_03,high,0.0,0.30000000000000004,DemandFCFS,Demand FCFS,-1.2042820699685528,-1.2820623222119487,departure_blocked:CompletionGreedy,0.07778025224339591,0.07778025224339591
+2026_03,high,0.0,0.4,DemandFCFS,Demand FCFS,-1.797367204970612,-1.8617924876717924,departure_blocked:CompletionGreedy,0.06442528270118042,0.06442528270118042
+2026_03,high,0.0,0.5,DemandFCFS,Demand FCFS,-2.390452339972671,-2.441522653131636,departure_blocked:CompletionGreedy,0.05107031315896471,0.05107031315896471
+2026_03,high,0.0,0.6000000000000001,DemandFCFS,Demand FCFS,-2.983537474974731,-3.0212528185914804,departure_blocked:CompletionGreedy,0.03771534361674922,0.03771534361674922
+2026_03,high,0.0,0.7000000000000001,DemandFCFS,Demand FCFS,-3.5766226099767904,-3.600982984051324,departure_blocked:CompletionGreedy,0.02436037407453373,0.02436037407453373
+2026_03,high,0.0,0.8,DemandFCFS,Demand FCFS,-4.16970774497885,-4.180713149511168,departure_blocked:CompletionGreedy,0.011005404532317797,0.011005404532317797
+2026_03,high,0.0,0.9,DemandFCFS,Demand FCFS,-4.762792879980909,-4.788452304212575,departure_blocked:ScheduleAware_m2K8,0.025659424231665895,0.025659424231665895
+2026_03,high,0.0,1.0,DemandFCFS,Demand FCFS,-5.355878014982968,-5.400312402772102,departure_blocked:ScheduleAware_m2K8,0.044434387789134,0.044434387789134
+2026_03,high,0.1,0.0,CompletionGreedy,Completion Greedy,0.6707777983235532,0.5557571657530684,departure_blocked:CompletionGreedy,0.11502063257048478,0.11502063257048478
+2026_03,high,0.1,0.1,DemandFCFS,Demand FCFS,0.07911963899715702,-0.023972999706775355,departure_blocked:CompletionGreedy,0.10309263870393237,0.10309263870393237
+2026_03,high,0.1,0.2,DemandFCFS,Demand FCFS,-0.5139654960049025,-0.6037031651666191,departure_blocked:CompletionGreedy,0.08973766916171666,0.08973766916171666
+2026_03,high,0.1,0.30000000000000004,DemandFCFS,Demand FCFS,-1.107050631006962,-1.183433330626463,departure_blocked:CompletionGreedy,0.07638269961950095,0.07638269961950095
+2026_03,high,0.1,0.4,DemandFCFS,Demand FCFS,-1.7001357660090215,-1.7631634960863067,departure_blocked:CompletionGreedy,0.06302773007728524,0.06302773007728524
+2026_03,high,0.1,0.5,DemandFCFS,Demand FCFS,-2.2932209010110807,-2.3428936615461504,departure_blocked:CompletionGreedy,0.04967276053506975,0.04967276053506975
+2026_03,high,0.1,0.6000000000000001,DemandFCFS,Demand FCFS,-2.8863060360131407,-2.9226238270059945,departure_blocked:CompletionGreedy,0.036317790992853816,0.036317790992853816
+2026_03,high,0.1,0.7000000000000001,DemandFCFS,Demand FCFS,-3.4793911710152,-3.504139640340141,departure_blocked:ScheduleAware_m2K8,0.024748469324940903,0.024748469324940903
+2026_03,high,0.1,0.8,DemandFCFS,Demand FCFS,-4.0724763060172595,-4.115999738899669,departure_blocked:ScheduleAware_m2K8,0.04352343288240945,0.04352343288240945
+2026_03,high,0.1,0.9,DemandFCFS,Demand FCFS,-4.665561441019318,-4.727859837459198,departure_blocked:ScheduleAware_m2K8,0.06229839643987933,0.06229839643987933
+2026_03,high,0.1,1.0,ObservedRunwayOrder,Observed Runway Order,-5.145990812796382,-5.339719936018725,departure_blocked:ScheduleAware_m2K8,0.1937291232223437,0.1937291232223437
+2026_03,high,0.2,0.0,CompletionGreedy,Completion Greedy,0.7672925436318643,0.6543861573385541,departure_blocked:CompletionGreedy,0.11290638629331018,0.11290638629331018
+2026_03,high,0.2,0.1,CompletionGreedy,Completion Greedy,0.174702159986314,0.0746559918787103,departure_blocked:CompletionGreedy,0.1000461681076037,0.1000461681076037
+2026_03,high,0.2,0.2,CompletionGreedy,Completion Greedy,-0.4178882236592363,-0.5050741735811335,departure_blocked:CompletionGreedy,0.08718594992189721,0.08718594992189721
+2026_03,high,0.2,0.30000000000000004,DemandFCFS,Demand FCFS,-1.0098191920453716,-1.0848043390409774,departure_blocked:CompletionGreedy,0.07498514699560577,0.07498514699560577
+2026_03,high,0.2,0.4,DemandFCFS,Demand FCFS,-1.602904327047431,-1.664534504500821,departure_blocked:CompletionGreedy,0.061630177453390056,0.061630177453390056
+2026_03,high,0.2,0.5,DemandFCFS,Demand FCFS,-2.19598946204949,-2.244264669960665,departure_blocked:CompletionGreedy,0.04827520791117479,0.04827520791117479
+2026_03,high,0.2,0.6000000000000001,DemandFCFS,Demand FCFS,-2.7890745970515503,-2.8316870750272347,departure_blocked:ScheduleAware_m2K8,0.04261247797568446,0.04261247797568446
+2026_03,high,0.2,0.7000000000000001,DemandFCFS,Demand FCFS,-3.3821597320536094,-3.4435471735867633,departure_blocked:ScheduleAware_m2K8,0.0613874415331539,0.0613874415331539
+2026_03,high,0.2,0.8,ObservedRunwayOrder,Observed Runway Order,-3.898027053807809,-4.055407272146291,departure_blocked:ScheduleAware_m2K8,0.15738021833848226,0.15738021833848226
+2026_03,high,0.2,0.9,ObservedRunwayOrder,Observed Runway Order,-4.522008933302095,-4.66726737070582,departure_blocked:ScheduleAware_m2K8,0.1452584374037249,0.1452584374037249
+2026_03,high,0.2,1.0,ObservedRunwayOrder,Observed Runway Order,-5.145990812796382,-5.279127469265347,departure_blocked:ScheduleAware_m2K8,0.13313665646896577,0.13313665646896577
+2026_03,high,0.30000000000000004,0.0,CompletionGreedy,Completion Greedy,0.8638072889401753,0.7530151489240398,departure_blocked:CompletionGreedy,0.11079214001613558,0.11079214001613558
+2026_03,high,0.30000000000000004,0.1,CompletionGreedy,Completion Greedy,0.27121690529462505,0.17328498346419596,departure_blocked:CompletionGreedy,0.09793192183042909,0.09793192183042909
+2026_03,high,0.30000000000000004,0.2,CompletionGreedy,Completion Greedy,-0.3213734783509252,-0.40644518199564783,departure_blocked:CompletionGreedy,0.08507170364472261,0.08507170364472261
+2026_03,high,0.30000000000000004,0.30000000000000004,CompletionGreedy,Completion Greedy,-0.9139638619964758,-0.9861753474554917,departure_blocked:CompletionGreedy,0.0722114854590159,0.0722114854590159
+2026_03,high,0.30000000000000004,0.4,CompletionGreedy,Completion Greedy,-1.5065542456420258,-1.5659055129153354,departure_blocked:CompletionGreedy,0.05935126727330964,0.05935126727330964
+2026_03,high,0.30000000000000004,0.5,CompletionGreedy,Completion Greedy,-2.099144629287576,-2.159234509714328,departure_blocked:ScheduleAware_m2K8,0.06008988042675201,0.06008988042675201
+2026_03,high,0.30000000000000004,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.650063294819235,-2.771094608273857,departure_blocked:ScheduleAware_m2K8,0.1210313134546217,0.1210313134546217
+2026_03,high,0.30000000000000004,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,-3.274045174313522,-3.3829547068333854,departure_blocked:ScheduleAware_m2K8,0.10890953251986346,0.10890953251986346
+2026_03,high,0.30000000000000004,0.8,ObservedRunwayOrder,Observed Runway Order,-3.898027053807809,-3.994814805392913,departure_blocked:ScheduleAware_m2K8,0.09678775158510433,0.09678775158510433
+2026_03,high,0.30000000000000004,0.9,ObservedRunwayOrder,Observed Runway Order,-4.522008933302095,-4.606674903952442,departure_blocked:ScheduleAware_m2K8,0.08466597065034698,0.08466597065034698
+2026_03,high,0.30000000000000004,1.0,ObservedRunwayOrder,Observed Runway Order,-5.145990812796382,-5.2185350025119694,departure_blocked:ScheduleAware_m2K8,0.07254418971558785,0.07254418971558785
+2026_03,high,0.4,0.0,CompletionGreedy,Completion Greedy,0.9603220342484863,0.8516441405095254,departure_blocked:CompletionGreedy,0.10867789373896086,0.10867789373896086
+2026_03,high,0.4,0.1,CompletionGreedy,Completion Greedy,0.367731650602936,0.2719139750496816,departure_blocked:CompletionGreedy,0.09581767555325438,0.09581767555325438
+2026_03,high,0.4,0.2,CompletionGreedy,Completion Greedy,-0.22485873304261428,-0.30781619041016217,departure_blocked:CompletionGreedy,0.0829574573675479,0.0829574573675479
+2026_03,high,0.4,0.30000000000000004,CompletionGreedy,Completion Greedy,-0.8174491166881649,-0.8875463558700061,departure_blocked:CompletionGreedy,0.07009723918184119,0.07009723918184119
+2026_03,high,0.4,0.4,ObservedRunwayOrder,Observed Runway Order,-1.4020995358306616,-1.486781944401422,departure_blocked:ScheduleAware_m2K8,0.08468240857076048,0.08468240857076048
+2026_03,high,0.4,0.5,ObservedRunwayOrder,Observed Runway Order,-2.0260814153249482,-2.0986420429609502,departure_blocked:ScheduleAware_m2K8,0.07256062763600202,0.07256062763600202
+2026_03,high,0.4,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.650063294819235,-2.710502141520479,departure_blocked:ScheduleAware_m2K8,0.060438846701243776,0.060438846701243776
+2026_03,high,0.4,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,-3.274045174313522,-3.3223622400800075,departure_blocked:ScheduleAware_m2K8,0.048317065766485534,0.048317065766485534
+2026_03,high,0.4,0.8,ObservedRunwayOrder,Observed Runway Order,-3.898027053807809,-3.934222338639535,departure_blocked:ScheduleAware_m2K8,0.036195284831726404,0.036195284831726404
+2026_03,high,0.4,0.9,ObservedRunwayOrder,Observed Runway Order,-4.522008933302095,-4.546082437199064,departure_blocked:ScheduleAware_m2K8,0.02407350389696905,0.02407350389696905
+2026_03,high,0.4,1.0,ObservedRunwayOrder,Observed Runway Order,-5.145990812796382,-5.1579425357585915,departure_blocked:ScheduleAware_m2K8,0.01195172296220992,0.01195172296220992
+2026_03,high,0.5,0.0,CompletionGreedy,Completion Greedy,1.0568367795567972,0.9468005814320204,departure_blocked:CPSDelay_m2K8,0.11003619812477683,0.11003619812477683
+2026_03,high,0.5,0.1,ObservedRunwayOrder,Observed Runway Order,0.46984610265219895,0.3523396553653735,departure_blocked:CPSDelay_m2K8,0.11750644728682547,0.11750644728682547
+2026_03,high,0.5,0.2,ObservedRunwayOrder,Observed Runway Order,-0.1541357768420879,-0.24212127070127343,departure_blocked:CPSDelay_m2K8,0.08798549385918553,0.08798549385918553
+2026_03,high,0.5,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,-0.7781176563363748,-0.8365821967679206,departure_blocked:CPSDelay_m2K8,0.05846454043154581,0.05846454043154581
+2026_03,high,0.5,0.4,ObservedRunwayOrder,Observed Runway Order,-1.4020995358306616,-1.4310431228345672,departure_blocked:CPSDelay_m2K8,0.028943587003905646,0.028943587003905646
+2026_03,high,0.5,0.5,ObservedRunwayOrder,Observed Runway Order,-2.0260814153249482,-2.0380495762075728,departure_blocked:ScheduleAware_m2K8,0.011968160882624534,0.011968160882624534
+2026_03,high,0.5,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.650063294819235,-2.650063294819235,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.5,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,-3.274045174313522,-3.274045174313522,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.5,0.8,ObservedRunwayOrder,Observed Runway Order,-3.898027053807809,-3.898027053807809,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.5,0.9,ObservedRunwayOrder,Observed Runway Order,-4.522008933302095,-4.522008933302095,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.5,1.0,ObservedRunwayOrder,Observed Runway Order,-5.145990812796382,-5.145990812796382,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.6000000000000001,0.0,ObservedRunwayOrder,Observed Runway Order,1.0938279821464858,0.9897146047378362,departure_blocked:CPSDelay_m2K8,0.10411337740864957,0.10411337740864957
+2026_03,high,0.6000000000000001,0.1,ObservedRunwayOrder,Observed Runway Order,0.46984610265219895,0.3952536786711893,departure_blocked:CPSDelay_m2K8,0.07459242398100963,0.07459242398100963
+2026_03,high,0.6000000000000001,0.2,ObservedRunwayOrder,Observed Runway Order,-0.1541357768420879,-0.1992072473954576,departure_blocked:CPSDelay_m2K8,0.045071470553369686,0.045071470553369686
+2026_03,high,0.6000000000000001,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,-0.7781176563363748,-0.7936681734621047,departure_blocked:CPSDelay_m2K8,0.015550517125729968,0.015550517125729968
+2026_03,high,0.6000000000000001,0.4,ObservedRunwayOrder,Observed Runway Order,-1.4020995358306616,-1.4020995358306616,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.6000000000000001,0.5,ObservedRunwayOrder,Observed Runway Order,-2.0260814153249482,-2.0260814153249482,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.6000000000000001,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.650063294819235,-2.650063294819235,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.6000000000000001,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,-3.274045174313522,-3.274045174313522,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.6000000000000001,0.8,ObservedRunwayOrder,Observed Runway Order,-3.898027053807809,-3.898027053807809,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.6000000000000001,0.9,ObservedRunwayOrder,Observed Runway Order,-4.522008933302095,-4.522008933302095,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.6000000000000001,1.0,ObservedRunwayOrder,Observed Runway Order,-5.145990812796382,-5.145990812796382,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.7000000000000001,0.0,ObservedRunwayOrder,Observed Runway Order,1.0938279821464858,1.032628628043652,departure_blocked:CPSDelay_m2K8,0.061199354102833725,0.061199354102833725
+2026_03,high,0.7000000000000001,0.1,ObservedRunwayOrder,Observed Runway Order,0.46984610265219895,0.43816770197700516,departure_blocked:CPSDelay_m2K8,0.031678400675193785,0.031678400675193785
+2026_03,high,0.7000000000000001,0.2,ObservedRunwayOrder,Observed Runway Order,-0.1541357768420879,-0.15629322408964175,departure_blocked:CPSDelay_m2K8,0.0021574472475538453,0.0021574472475538453
+2026_03,high,0.7000000000000001,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,-0.7781176563363748,-0.7781176563363748,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.7000000000000001,0.4,ObservedRunwayOrder,Observed Runway Order,-1.4020995358306616,-1.4020995358306616,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.7000000000000001,0.5,ObservedRunwayOrder,Observed Runway Order,-2.0260814153249482,-2.0260814153249482,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.7000000000000001,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.650063294819235,-2.650063294819235,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.7000000000000001,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,-3.274045174313522,-3.274045174313522,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.7000000000000001,0.8,ObservedRunwayOrder,Observed Runway Order,-3.898027053807809,-3.898027053807809,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.7000000000000001,0.9,ObservedRunwayOrder,Observed Runway Order,-4.522008933302095,-4.522008933302095,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.7000000000000001,1.0,ObservedRunwayOrder,Observed Runway Order,-5.145990812796382,-5.145990812796382,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.8,0.0,ObservedRunwayOrder,Observed Runway Order,1.0938279821464858,1.075542651349468,departure_blocked:CPSDelay_m2K8,0.018285330797017885,0.018285330797017885
+2026_03,high,0.8,0.1,ObservedRunwayOrder,Observed Runway Order,0.46984610265219895,0.46984610265219895,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.8,0.2,ObservedRunwayOrder,Observed Runway Order,-0.1541357768420879,-0.1541357768420879,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.8,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,-0.7781176563363748,-0.7781176563363748,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.8,0.4,ObservedRunwayOrder,Observed Runway Order,-1.4020995358306616,-1.4020995358306616,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.8,0.5,ObservedRunwayOrder,Observed Runway Order,-2.0260814153249482,-2.0260814153249482,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.8,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.650063294819235,-2.650063294819235,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.8,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,-3.274045174313522,-3.274045174313522,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.8,0.8,ObservedRunwayOrder,Observed Runway Order,-3.898027053807809,-3.898027053807809,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.8,0.9,ObservedRunwayOrder,Observed Runway Order,-4.522008933302095,-4.522008933302095,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.8,1.0,ObservedRunwayOrder,Observed Runway Order,-5.145990812796382,-5.145990812796382,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.9,0.0,ObservedRunwayOrder,Observed Runway Order,1.0938279821464858,1.0938279821464858,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.9,0.1,ObservedRunwayOrder,Observed Runway Order,0.46984610265219895,0.46984610265219895,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.9,0.2,ObservedRunwayOrder,Observed Runway Order,-0.1541357768420879,-0.1541357768420879,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.9,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,-0.7781176563363748,-0.7781176563363748,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.9,0.4,ObservedRunwayOrder,Observed Runway Order,-1.4020995358306616,-1.4020995358306616,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.9,0.5,ObservedRunwayOrder,Observed Runway Order,-2.0260814153249482,-2.0260814153249482,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.9,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.650063294819235,-2.650063294819235,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.9,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,-3.274045174313522,-3.274045174313522,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.9,0.8,ObservedRunwayOrder,Observed Runway Order,-3.898027053807809,-3.898027053807809,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.9,0.9,ObservedRunwayOrder,Observed Runway Order,-4.522008933302095,-4.522008933302095,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,0.9,1.0,ObservedRunwayOrder,Observed Runway Order,-5.145990812796382,-5.145990812796382,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,1.0,0.0,ObservedRunwayOrder,Observed Runway Order,1.0938279821464858,1.0938279821464858,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,1.0,0.1,ObservedRunwayOrder,Observed Runway Order,0.46984610265219895,0.46984610265219895,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,1.0,0.2,ObservedRunwayOrder,Observed Runway Order,-0.1541357768420879,-0.1541357768420879,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,1.0,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,-0.7781176563363748,-0.7781176563363748,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,1.0,0.4,ObservedRunwayOrder,Observed Runway Order,-1.4020995358306616,-1.4020995358306616,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,1.0,0.5,ObservedRunwayOrder,Observed Runway Order,-2.0260814153249482,-2.0260814153249482,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,1.0,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.650063294819235,-2.650063294819235,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,1.0,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,-3.274045174313522,-3.274045174313522,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,1.0,0.8,ObservedRunwayOrder,Observed Runway Order,-3.898027053807809,-3.898027053807809,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,1.0,0.9,ObservedRunwayOrder,Observed Runway Order,-4.522008933302095,-4.522008933302095,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,high,1.0,1.0,ObservedRunwayOrder,Observed Runway Order,-5.145990812796382,-5.145990812796382,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.0,0.0,DemandFCFS,Demand FCFS,0.20752971746496357,0.19170493583440676,departure_blocked:CompletionGreedy,0.01582478163055681,0.01582478163055681
+2026_03,low,0.0,0.1,DemandFCFS,Demand FCFS,1.4760689814550563,1.4622494798417147,departure_blocked:CompletionGreedy,0.013819501613341556,0.013819501613341556
+2026_03,low,0.0,0.2,DemandFCFS,Demand FCFS,2.744608245445149,2.732794023849023,departure_blocked:CompletionGreedy,0.011814221596126107,0.011814221596126107
+2026_03,low,0.0,0.30000000000000004,DemandFCFS,Demand FCFS,4.0131475094352425,4.003338567856331,departure_blocked:CompletionGreedy,0.009808941578911323,0.009808941578911323
+2026_03,low,0.0,0.4,DemandFCFS,Demand FCFS,5.281686773425335,5.273883111863639,departure_blocked:CompletionGreedy,0.007803661561696096,0.007803661561696096
+2026_03,low,0.0,0.5,DemandFCFS,Demand FCFS,6.5502260374154275,6.544427655870947,departure_blocked:CompletionGreedy,0.005798381544480868,0.005798381544480868
+2026_03,low,0.0,0.6000000000000001,DemandFCFS,Demand FCFS,7.818765301405521,7.814972199878255,departure_blocked:CompletionGreedy,0.003793101527265641,0.003793101527265641
+2026_03,low,0.0,0.7000000000000001,ScheduleAware_m2K8,Schedule Aware,9.059839119837475,9.024237004338412,departure_blocked:ScheduleAware_m2K8,0.03560211549906356,0.03560211549906356
+2026_03,low,0.0,0.8,ScheduleAware_m2K8,Schedule Aware,10.270978817611649,10.229436173936511,departure_blocked:ScheduleAware_m2K8,0.041542643675137825,0.041542643675137825
+2026_03,low,0.0,0.9,ScheduleAware_m2K8,Schedule Aware,11.482118515385821,11.43463534353461,departure_blocked:ScheduleAware_m2K8,0.047483171851210315,0.047483171851210315
+2026_03,low,0.0,1.0,ScheduleAware_m2K8,Schedule Aware,12.693258213159995,12.63983451313271,departure_blocked:ScheduleAware_m2K8,0.05342370002728458,0.05342370002728458
+2026_03,low,0.1,0.0,DemandFCFS,Demand FCFS,0.3096585630572976,0.29397911097310025,departure_blocked:CompletionGreedy,0.015679452084197354,0.015679452084197354
+2026_03,low,0.1,0.1,DemandFCFS,Demand FCFS,1.5781978270473904,1.5645236549804082,departure_blocked:CompletionGreedy,0.013674172066982182,0.013674172066982182
+2026_03,low,0.1,0.2,DemandFCFS,Demand FCFS,2.846737091037483,2.8350681989877162,departure_blocked:CompletionGreedy,0.011668892049766733,0.011668892049766733
+2026_03,low,0.1,0.30000000000000004,DemandFCFS,Demand FCFS,4.115276355027576,4.105612742995024,departure_blocked:CompletionGreedy,0.009663612032551505,0.009663612032551505
+2026_03,low,0.1,0.4,DemandFCFS,Demand FCFS,5.3838156190176685,5.376157287002332,departure_blocked:CompletionGreedy,0.007658332015336278,0.007658332015336278
+2026_03,low,0.1,0.5,DemandFCFS,Demand FCFS,6.652354883007761,6.64670183100964,departure_blocked:CompletionGreedy,0.00565305199812105,0.00565305199812105
+2026_03,low,0.1,0.6000000000000001,DemandFCFS,Demand FCFS,7.920894146997854,7.883526327825545,departure_blocked:ScheduleAware_m2K8,0.03736781917230925,0.03736781917230925
+2026_03,low,0.1,0.7000000000000001,ScheduleAware_m2K8,Schedule Aware,9.133212623407672,9.088725497423646,departure_blocked:ScheduleAware_m2K8,0.04448712598402693,0.04448712598402693
+2026_03,low,0.1,0.8,ScheduleAware_m2K8,Schedule Aware,10.344352321181844,10.293924667021745,departure_blocked:ScheduleAware_m2K8,0.05042765416009942,0.05042765416009942
+2026_03,low,0.1,0.9,ScheduleAware_m2K8,Schedule Aware,11.555492018956016,11.499123836619844,departure_blocked:ScheduleAware_m2K8,0.05636818233617191,0.05636818233617191
+2026_03,low,0.1,1.0,ScheduleAware_m2K8,Schedule Aware,12.766631716730192,12.704323006217944,departure_blocked:ScheduleAware_m2K8,0.062308710512247956,0.062308710512247956
+2026_03,low,0.2,0.0,CompletionGreedy,Completion Greedy,0.411039084395151,0.3962532861117937,departure_blocked:CompletionGreedy,0.014785798283357299,0.014785798283357299
+2026_03,low,0.2,0.1,CompletionGreedy,Completion Greedy,1.6800354206270782,1.6667978301191018,departure_blocked:CompletionGreedy,0.01323759050797646,0.01323759050797646
+2026_03,low,0.2,0.2,DemandFCFS,Demand FCFS,2.9488659366298173,2.9373423741264095,departure_blocked:CompletionGreedy,0.011523562503407803,0.011523562503407803
+2026_03,low,0.2,0.30000000000000004,DemandFCFS,Demand FCFS,4.21740520061991,4.207886918133718,departure_blocked:CompletionGreedy,0.009518282486192575,0.009518282486192575
+2026_03,low,0.2,0.4,DemandFCFS,Demand FCFS,5.485944464610003,5.4784314621410255,departure_blocked:CompletionGreedy,0.007513002468977348,0.007513002468977348
+2026_03,low,0.2,0.5,DemandFCFS,Demand FCFS,6.754483728600095,6.742815651312678,departure_blocked:ScheduleAware_m2K8,0.011668077287417589,0.011668077287417589
+2026_03,low,0.2,0.6000000000000001,ScheduleAware_m2K8,Schedule Aware,7.995446429203694,7.948014820910779,departure_blocked:ScheduleAware_m2K8,0.04743160829291515,0.04743160829291515
+2026_03,low,0.2,0.7000000000000001,ScheduleAware_m2K8,Schedule Aware,9.206586126977868,9.15321399050888,departure_blocked:ScheduleAware_m2K8,0.05337213646898853,0.05337213646898853
+2026_03,low,0.2,0.8,ScheduleAware_m2K8,Schedule Aware,10.417725824752042,10.358413160106979,departure_blocked:ScheduleAware_m2K8,0.059312664645062796,0.059312664645062796
+2026_03,low,0.2,0.9,ScheduleAware_m2K8,Schedule Aware,11.628865522526214,11.563612329705078,departure_blocked:ScheduleAware_m2K8,0.06525319282113529,0.06525319282113529
+2026_03,low,0.2,1.0,ObservedRunwayOrder,Observed Runway Order,12.850107870979429,12.768811499303178,departure_blocked:ScheduleAware_m2K8,0.0812963716762507,0.0812963716762507
+2026_03,low,0.30000000000000004,0.0,CompletionGreedy,Completion Greedy,0.5127498586897388,0.4985274612504872,departure_blocked:CompletionGreedy,0.014222397439251577,0.014222397439251577
+2026_03,low,0.30000000000000004,0.1,CompletionGreedy,Completion Greedy,1.781746194921666,1.769072005257795,departure_blocked:CompletionGreedy,0.012674189663870905,0.012674189663870905
+2026_03,low,0.30000000000000004,0.2,CompletionGreedy,Completion Greedy,3.050742531153593,3.0396165492651033,departure_blocked:CompletionGreedy,0.0111259818884899,0.0111259818884899
+2026_03,low,0.30000000000000004,0.30000000000000004,DemandFCFS,Demand FCFS,4.319534046212244,4.310161093272411,departure_blocked:CompletionGreedy,0.009372952939832757,0.009372952939832757
+2026_03,low,0.30000000000000004,0.4,DemandFCFS,Demand FCFS,5.588073310202336,5.580705637279719,departure_blocked:CompletionGreedy,0.00736767292261753,0.00736767292261753
+2026_03,low,0.30000000000000004,0.5,DemandFCFS,Demand FCFS,6.856612574192429,6.807304144397911,departure_blocked:ScheduleAware_m2K8,0.049308429794518105,0.049308429794518105
+2026_03,low,0.30000000000000004,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,8.077153274985347,8.012503313996012,departure_blocked:ScheduleAware_m2K8,0.0646499609893354,0.0646499609893354
+2026_03,low,0.30000000000000004,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,9.270391923983867,9.217702483594113,departure_blocked:ScheduleAware_m2K8,0.05268944038975398,0.05268944038975398
+2026_03,low,0.30000000000000004,0.8,ObservedRunwayOrder,Observed Runway Order,10.463630572982387,10.422901653192213,departure_blocked:ScheduleAware_m2K8,0.040728919790174345,0.040728919790174345
+2026_03,low,0.30000000000000004,0.9,ObservedRunwayOrder,Observed Runway Order,11.656869221980909,11.628100822790312,departure_blocked:ScheduleAware_m2K8,0.028768399190596483,0.028768399190596483
+2026_03,low,0.30000000000000004,1.0,ObservedRunwayOrder,Observed Runway Order,12.850107870979429,12.833299992388412,departure_blocked:ScheduleAware_m2K8,0.016807878591016845,0.016807878591016845
+2026_03,low,0.4,0.0,CompletionGreedy,Completion Greedy,0.6144606329843263,0.6008016363891807,departure_blocked:CompletionGreedy,0.013658996595145578,0.013658996595145578
+2026_03,low,0.4,0.1,CompletionGreedy,Completion Greedy,1.8834569692162535,1.8713461803964888,departure_blocked:CompletionGreedy,0.012110788819764684,0.012110788819764684
+2026_03,low,0.4,0.2,CompletionGreedy,Completion Greedy,3.152453305448181,3.1418907244037966,departure_blocked:CompletionGreedy,0.010562581044384345,0.010562581044384345
+2026_03,low,0.4,0.30000000000000004,CompletionGreedy,Completion Greedy,4.421449641680108,4.412435268411105,departure_blocked:CompletionGreedy,0.009014373269002895,0.009014373269002895
+2026_03,low,0.4,0.4,ObservedRunwayOrder,Observed Runway Order,5.690675976988305,5.666593467885045,departure_blocked:ScheduleAware_m2K8,0.02408250910325993,0.02408250910325993
+2026_03,low,0.4,0.5,ObservedRunwayOrder,Observed Runway Order,6.883914625986826,6.871792637483145,departure_blocked:ScheduleAware_m2K8,0.01212198850368118,0.01212198850368118
+2026_03,low,0.4,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,8.077153274985347,8.076991807081246,departure_blocked:ScheduleAware_m2K8,0.0001614679041015421,0.0001614679041015421
+2026_03,low,0.4,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,9.270391923983867,9.270391923983867,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.4,0.8,ObservedRunwayOrder,Observed Runway Order,10.463630572982387,10.463630572982387,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.4,0.9,ObservedRunwayOrder,Observed Runway Order,11.656869221980909,11.656869221980909,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.4,1.0,ObservedRunwayOrder,Observed Runway Order,12.850107870979429,12.850107870979429,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.5,0.0,CompletionGreedy,Completion Greedy,0.7161714072789139,0.7030758115278741,departure_blocked:CompletionGreedy,0.013095595751039801,0.013095595751039801
+2026_03,low,0.5,0.1,CompletionGreedy,Completion Greedy,1.985167743510841,1.9736203555351821,departure_blocked:CompletionGreedy,0.011547387975658907,0.011547387975658907
+2026_03,low,0.5,0.2,CompletionGreedy,Completion Greedy,3.2541640797427682,3.24416489954249,departure_blocked:CompletionGreedy,0.009999180200278346,0.009999180200278346
+2026_03,low,0.5,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,4.497437327989785,4.497437327989785,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.5,0.4,ObservedRunwayOrder,Observed Runway Order,5.690675976988305,5.690675976988305,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.5,0.5,ObservedRunwayOrder,Observed Runway Order,6.883914625986826,6.883914625986826,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.5,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,8.077153274985347,8.077153274985347,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.5,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,9.270391923983867,9.270391923983867,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.5,0.8,ObservedRunwayOrder,Observed Runway Order,10.463630572982387,10.463630572982387,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.5,0.9,ObservedRunwayOrder,Observed Runway Order,11.656869221980909,11.656869221980909,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.5,1.0,ObservedRunwayOrder,Observed Runway Order,12.850107870979429,12.850107870979429,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.6000000000000001,0.0,CompletionGreedy,Completion Greedy,0.8178821815735017,0.8053499866665677,departure_blocked:CompletionGreedy,0.012532194906934024,0.012532194906934024
+2026_03,low,0.6000000000000001,0.1,CompletionGreedy,Completion Greedy,2.0868785178054288,2.0758945306738754,departure_blocked:CompletionGreedy,0.010983987131553352,0.010983987131553352
+2026_03,low,0.6000000000000001,0.2,ObservedRunwayOrder,Observed Runway Order,3.3041986789912636,3.3041986789912636,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.6000000000000001,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,4.497437327989785,4.497437327989785,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.6000000000000001,0.4,ObservedRunwayOrder,Observed Runway Order,5.690675976988305,5.690675976988305,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.6000000000000001,0.5,ObservedRunwayOrder,Observed Runway Order,6.883914625986826,6.883914625986826,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.6000000000000001,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,8.077153274985347,8.077153274985347,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.6000000000000001,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,9.270391923983867,9.270391923983867,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.6000000000000001,0.8,ObservedRunwayOrder,Observed Runway Order,10.463630572982387,10.463630572982387,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.6000000000000001,0.9,ObservedRunwayOrder,Observed Runway Order,11.656869221980909,11.656869221980909,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.6000000000000001,1.0,ObservedRunwayOrder,Observed Runway Order,12.850107870979429,12.850107870979429,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.7000000000000001,0.0,CompletionGreedy,Completion Greedy,0.9195929558680893,0.9076241618052612,departure_blocked:CompletionGreedy,0.011968794062828136,0.011968794062828136
+2026_03,low,0.7000000000000001,0.1,ObservedRunwayOrder,Observed Runway Order,2.1109600299927433,2.1109600299927433,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.7000000000000001,0.2,ObservedRunwayOrder,Observed Runway Order,3.3041986789912636,3.3041986789912636,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.7000000000000001,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,4.497437327989785,4.497437327989785,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.7000000000000001,0.4,ObservedRunwayOrder,Observed Runway Order,5.690675976988305,5.690675976988305,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.7000000000000001,0.5,ObservedRunwayOrder,Observed Runway Order,6.883914625986826,6.883914625986826,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.7000000000000001,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,8.077153274985347,8.077153274985347,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.7000000000000001,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,9.270391923983867,9.270391923983867,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.7000000000000001,0.8,ObservedRunwayOrder,Observed Runway Order,10.463630572982387,10.463630572982387,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.7000000000000001,0.9,ObservedRunwayOrder,Observed Runway Order,11.656869221980909,11.656869221980909,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.7000000000000001,1.0,ObservedRunwayOrder,Observed Runway Order,12.850107870979429,12.850107870979429,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.8,0.0,ObservedRunwayOrder,Observed Runway Order,0.9177213809942227,0.9177213809942227,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.8,0.1,ObservedRunwayOrder,Observed Runway Order,2.1109600299927433,2.1109600299927433,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.8,0.2,ObservedRunwayOrder,Observed Runway Order,3.3041986789912636,3.3041986789912636,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.8,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,4.497437327989785,4.497437327989785,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.8,0.4,ObservedRunwayOrder,Observed Runway Order,5.690675976988305,5.690675976988305,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.8,0.5,ObservedRunwayOrder,Observed Runway Order,6.883914625986826,6.883914625986826,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.8,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,8.077153274985347,8.077153274985347,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.8,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,9.270391923983867,9.270391923983867,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.8,0.8,ObservedRunwayOrder,Observed Runway Order,10.463630572982387,10.463630572982387,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.8,0.9,ObservedRunwayOrder,Observed Runway Order,11.656869221980909,11.656869221980909,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.8,1.0,ObservedRunwayOrder,Observed Runway Order,12.850107870979429,12.850107870979429,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.9,0.0,ObservedRunwayOrder,Observed Runway Order,0.9177213809942227,0.9177213809942227,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.9,0.1,ObservedRunwayOrder,Observed Runway Order,2.1109600299927433,2.1109600299927433,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.9,0.2,ObservedRunwayOrder,Observed Runway Order,3.3041986789912636,3.3041986789912636,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.9,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,4.497437327989785,4.497437327989785,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.9,0.4,ObservedRunwayOrder,Observed Runway Order,5.690675976988305,5.690675976988305,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.9,0.5,ObservedRunwayOrder,Observed Runway Order,6.883914625986826,6.883914625986826,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.9,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,8.077153274985347,8.077153274985347,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.9,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,9.270391923983867,9.270391923983867,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.9,0.8,ObservedRunwayOrder,Observed Runway Order,10.463630572982387,10.463630572982387,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.9,0.9,ObservedRunwayOrder,Observed Runway Order,11.656869221980909,11.656869221980909,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,0.9,1.0,ObservedRunwayOrder,Observed Runway Order,12.850107870979429,12.850107870979429,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,1.0,0.0,ObservedRunwayOrder,Observed Runway Order,0.9177213809942227,0.9177213809942227,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,1.0,0.1,ObservedRunwayOrder,Observed Runway Order,2.1109600299927433,2.1109600299927433,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,1.0,0.2,ObservedRunwayOrder,Observed Runway Order,3.3041986789912636,3.3041986789912636,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,1.0,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,4.497437327989785,4.497437327989785,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,1.0,0.4,ObservedRunwayOrder,Observed Runway Order,5.690675976988305,5.690675976988305,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,1.0,0.5,ObservedRunwayOrder,Observed Runway Order,6.883914625986826,6.883914625986826,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,1.0,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,8.077153274985347,8.077153274985347,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,1.0,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,9.270391923983867,9.270391923983867,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,1.0,0.8,ObservedRunwayOrder,Observed Runway Order,10.463630572982387,10.463630572982387,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,1.0,0.9,ObservedRunwayOrder,Observed Runway Order,11.656869221980909,11.656869221980909,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,low,1.0,1.0,ObservedRunwayOrder,Observed Runway Order,12.850107870979429,12.850107870979429,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.0,0.0,DemandFCFS,Demand FCFS,0.3500744692706524,0.3054921006530143,departure_blocked:CompletionGreedy,0.04458236861763809,0.04458236861763809
+2026_03,medium,0.0,0.1,DemandFCFS,Demand FCFS,-0.16367004012587277,-0.20344910778689224,departure_blocked:CompletionGreedy,0.03977906766101946,0.03977906766101946
+2026_03,medium,0.0,0.2,DemandFCFS,Demand FCFS,-0.677414549522398,-0.7123903162267988,departure_blocked:CompletionGreedy,0.034975766704400835,0.034975766704400835
+2026_03,medium,0.0,0.30000000000000004,DemandFCFS,Demand FCFS,-1.1911590589189232,-1.2213315246667054,departure_blocked:CompletionGreedy,0.030172465747782207,0.030172465747782207
+2026_03,medium,0.0,0.4,DemandFCFS,Demand FCFS,-1.7049035683154483,-1.730272733106612,departure_blocked:CompletionGreedy,0.02536916479116358,0.02536916479116358
+2026_03,medium,0.0,0.5,DemandFCFS,Demand FCFS,-2.2186480777119733,-2.239213941546518,departure_blocked:CompletionGreedy,0.02056586383454473,0.02056586383454473
+2026_03,medium,0.0,0.6000000000000001,DemandFCFS,Demand FCFS,-2.7323925871084986,-2.7481551499864247,departure_blocked:CompletionGreedy,0.0157625628779261,0.0157625628779261
+2026_03,medium,0.0,0.7000000000000001,DemandFCFS,Demand FCFS,-3.246137096505024,-3.2570963584263315,departure_blocked:CompletionGreedy,0.010959261921307473,0.010959261921307473
+2026_03,medium,0.0,0.8,DemandFCFS,Demand FCFS,-3.759881605901549,-3.766037566866238,departure_blocked:CompletionGreedy,0.006155960964688845,0.006155960964688845
+2026_03,medium,0.0,0.9,DemandFCFS,Demand FCFS,-4.2736261152980735,-4.283950616031795,departure_blocked:ScheduleAware_m2K8,0.01032450073372182,0.01032450073372182
+2026_03,medium,0.0,1.0,DemandFCFS,Demand FCFS,-4.787370624694598,-4.829680677539663,departure_blocked:ScheduleAware_m2K8,0.04231005284506484,0.04231005284506484
+2026_03,medium,0.1,0.0,DemandFCFS,Demand FCFS,0.44856012212548213,0.40458893392883516,departure_blocked:CompletionGreedy,0.04397118819664697,0.04397118819664697
+2026_03,medium,0.1,0.1,DemandFCFS,Demand FCFS,-0.06518438727104303,-0.10435227451107137,departure_blocked:CompletionGreedy,0.03916788724002834,0.03916788724002834
+2026_03,medium,0.1,0.2,DemandFCFS,Demand FCFS,-0.5789288966675682,-0.613293482950978,departure_blocked:CompletionGreedy,0.03436458628340977,0.03436458628340977
+2026_03,medium,0.1,0.30000000000000004,DemandFCFS,Demand FCFS,-1.0926734060640935,-1.1222346913908845,departure_blocked:CompletionGreedy,0.02956128532679103,0.02956128532679103
+2026_03,medium,0.1,0.4,DemandFCFS,Demand FCFS,-1.6064179154606184,-1.631175899830791,departure_blocked:CompletionGreedy,0.024757984370172625,0.024757984370172625
+2026_03,medium,0.1,0.5,DemandFCFS,Demand FCFS,-2.1201624248571433,-2.1401171082706973,departure_blocked:CompletionGreedy,0.019954683413553997,0.019954683413553997
+2026_03,medium,0.1,0.6000000000000001,DemandFCFS,Demand FCFS,-2.6339069342536687,-2.649058316710604,departure_blocked:CompletionGreedy,0.01515138245693537,0.01515138245693537
+2026_03,medium,0.1,0.7000000000000001,DemandFCFS,Demand FCFS,-3.147651443650194,-3.157999525150511,departure_blocked:CompletionGreedy,0.010348081500316741,0.010348081500316741
+2026_03,medium,0.1,0.8,DemandFCFS,Demand FCFS,-3.661395953046719,-3.677219970551321,departure_blocked:ScheduleAware_m2K8,0.01582401750460205,0.01582401750460205
+2026_03,medium,0.1,0.9,DemandFCFS,Demand FCFS,-4.175140462443244,-4.222950032059189,departure_blocked:ScheduleAware_m2K8,0.047809569615944625,0.047809569615944625
+2026_03,medium,0.1,1.0,ObservedRunwayOrder,Observed Runway Order,-4.704117058183045,-4.768680093567057,departure_blocked:ScheduleAware_m2K8,0.06456303538401187,0.06456303538401187
+2026_03,medium,0.2,0.0,DemandFCFS,Demand FCFS,0.5470457749803118,0.5036857672046561,departure_blocked:CompletionGreedy,0.04336000777565574,0.04336000777565574
+2026_03,medium,0.2,0.1,DemandFCFS,Demand FCFS,0.033301265583786654,-0.005255441235250458,departure_blocked:CompletionGreedy,0.03855670681903711,0.03855670681903711
+2026_03,medium,0.2,0.2,DemandFCFS,Demand FCFS,-0.4804432438127385,-0.514196649675157,departure_blocked:CompletionGreedy,0.033753405862418484,0.033753405862418484
+2026_03,medium,0.2,0.30000000000000004,DemandFCFS,Demand FCFS,-0.9941877532092637,-1.0231378581150636,departure_blocked:CompletionGreedy,0.028950104905799967,0.028950104905799967
+2026_03,medium,0.2,0.4,DemandFCFS,Demand FCFS,-1.507932262605789,-1.53207906655497,departure_blocked:CompletionGreedy,0.024146803949181006,0.024146803949181006
+2026_03,medium,0.2,0.5,DemandFCFS,Demand FCFS,-2.021676772002314,-2.0410202749948763,departure_blocked:CompletionGreedy,0.019343502992562378,0.019343502992562378
+2026_03,medium,0.2,0.6000000000000001,DemandFCFS,Demand FCFS,-2.5354212813988393,-2.549961483434783,departure_blocked:CompletionGreedy,0.01454020203594375,0.01454020203594375
+2026_03,medium,0.2,0.7000000000000001,DemandFCFS,Demand FCFS,-3.0491657907953647,-3.070489325070847,departure_blocked:ScheduleAware_m2K8,0.02132353427548228,0.02132353427548228
+2026_03,medium,0.2,0.8,ObservedRunwayOrder,Observed Runway Order,-3.5656035191745783,-3.616219386578715,departure_blocked:ScheduleAware_m2K8,0.050615867404136594,0.050615867404136594
+2026_03,medium,0.2,0.9,ObservedRunwayOrder,Observed Runway Order,-4.134860288678811,-4.161949448086583,departure_blocked:ScheduleAware_m2K8,0.027089159407771568,0.027089159407771568
+2026_03,medium,0.2,1.0,ObservedRunwayOrder,Observed Runway Order,-4.704117058183045,-4.707679509594451,departure_blocked:ScheduleAware_m2K8,0.003562451411405654,0.003562451411405654
+2026_03,medium,0.30000000000000004,0.0,CompletionGreedy,Completion Greedy,0.6422527419887539,0.6027826004804769,departure_blocked:CompletionGreedy,0.03947014150827699,0.03947014150827699
+2026_03,medium,0.30000000000000004,0.1,DemandFCFS,Demand FCFS,0.13178691843861645,0.0938413920405704,departure_blocked:CompletionGreedy,0.03794552639804605,0.03794552639804605
+2026_03,medium,0.30000000000000004,0.2,DemandFCFS,Demand FCFS,-0.3819575909579087,-0.41509981639933613,departure_blocked:CompletionGreedy,0.03314222544142742,0.03314222544142742
+2026_03,medium,0.30000000000000004,0.30000000000000004,DemandFCFS,Demand FCFS,-0.8957021003544339,-0.9240410248392427,departure_blocked:CompletionGreedy,0.028338924484808792,0.028338924484808792
+2026_03,medium,0.30000000000000004,0.4,DemandFCFS,Demand FCFS,-1.409446609750959,-1.4329822332791493,departure_blocked:CompletionGreedy,0.023535623528190275,0.023535623528190275
+2026_03,medium,0.30000000000000004,0.5,DemandFCFS,Demand FCFS,-1.923191119147484,-1.9419234417190556,departure_blocked:CompletionGreedy,0.018732322571571647,0.018732322571571647
+2026_03,medium,0.30000000000000004,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.4270899801661114,-2.463758679590373,departure_blocked:ScheduleAware_m2K8,0.036668699424261764,0.036668699424261764
+2026_03,medium,0.30000000000000004,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.9963467496703444,-3.0094887410982407,departure_blocked:ScheduleAware_m2K8,0.013141991427896293,0.013141991427896293
+2026_03,medium,0.30000000000000004,0.8,ObservedRunwayOrder,Observed Runway Order,-3.5656035191745783,-3.5656035191745783,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.30000000000000004,0.9,ObservedRunwayOrder,Observed Runway Order,-4.134860288678811,-4.134860288678811,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.30000000000000004,1.0,ObservedRunwayOrder,Observed Runway Order,-4.704117058183045,-4.704117058183045,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.4,0.0,CompletionGreedy,Completion Greedy,0.7406189459013703,0.7018794337562978,departure_blocked:CompletionGreedy,0.03873951214507254,0.03873951214507254
+2026_03,medium,0.4,0.1,DemandFCFS,Demand FCFS,0.23027257129344614,0.19293822531639127,departure_blocked:CompletionGreedy,0.03733434597705487,0.03733434597705487
+2026_03,medium,0.4,0.2,DemandFCFS,Demand FCFS,-0.283471938103079,-0.31600298312351527,departure_blocked:CompletionGreedy,0.032531045020436244,0.032531045020436244
+2026_03,medium,0.4,0.30000000000000004,DemandFCFS,Demand FCFS,-0.7972164474996042,-0.8249441915634218,departure_blocked:CompletionGreedy,0.027727744063817616,0.027727744063817616
+2026_03,medium,0.4,0.4,DemandFCFS,Demand FCFS,-1.3109609568961293,-1.3338854000033282,departure_blocked:CompletionGreedy,0.022924443107198877,0.022924443107198877
+2026_03,medium,0.4,0.5,ObservedRunwayOrder,Observed Runway Order,-1.857833210661877,-1.857833210661877,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.4,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.4270899801661114,-2.4270899801661114,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.4,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.9963467496703444,-2.9963467496703444,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.4,0.8,ObservedRunwayOrder,Observed Runway Order,-3.5656035191745783,-3.5656035191745783,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.4,0.9,ObservedRunwayOrder,Observed Runway Order,-4.134860288678811,-4.134860288678811,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.4,1.0,ObservedRunwayOrder,Observed Runway Order,-4.704117058183045,-4.704117058183045,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.5,0.0,CompletionGreedy,Completion Greedy,0.8389851498139869,0.8009762670321187,departure_blocked:CompletionGreedy,0.0380088827818682,0.0380088827818682
+2026_03,medium,0.5,0.1,DemandFCFS,Demand FCFS,0.3287582241482758,0.2920350585922121,departure_blocked:CompletionGreedy,0.0367231655560637,0.0367231655560637
+2026_03,medium,0.5,0.2,DemandFCFS,Demand FCFS,-0.18498628524824934,-0.2169061498476944,departure_blocked:CompletionGreedy,0.03191986459944507,0.03191986459944507
+2026_03,medium,0.5,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,-0.7193196716534098,-0.7258473582876009,departure_blocked:CompletionGreedy,0.006527686634191121,0.006527686634191121
+2026_03,medium,0.5,0.4,ObservedRunwayOrder,Observed Runway Order,-1.2885764411576435,-1.2885764411576435,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.5,0.5,ObservedRunwayOrder,Observed Runway Order,-1.857833210661877,-1.857833210661877,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.5,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.4270899801661114,-2.4270899801661114,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.5,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.9963467496703444,-2.9963467496703444,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.5,0.8,ObservedRunwayOrder,Observed Runway Order,-3.5656035191745783,-3.5656035191745783,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.5,0.9,ObservedRunwayOrder,Observed Runway Order,-4.134860288678811,-4.134860288678811,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.5,1.0,ObservedRunwayOrder,Observed Runway Order,-4.704117058183045,-4.704117058183045,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.6000000000000001,0.0,CompletionGreedy,Completion Greedy,0.9373513537266034,0.9000731003079396,departure_blocked:CompletionGreedy,0.037278253418663754,0.037278253418663754
+2026_03,medium,0.6000000000000001,0.1,ObservedRunwayOrder,Observed Runway Order,0.4191938673550578,0.3881767106685067,departure_blocked:CPSDelay_m2K8,0.03101715668655114,0.03101715668655114
+2026_03,medium,0.6000000000000001,0.2,ObservedRunwayOrder,Observed Runway Order,-0.15006290214917595,-0.15006290214917595,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.6000000000000001,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,-0.7193196716534098,-0.7193196716534098,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.6000000000000001,0.4,ObservedRunwayOrder,Observed Runway Order,-1.2885764411576435,-1.2885764411576435,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.6000000000000001,0.5,ObservedRunwayOrder,Observed Runway Order,-1.857833210661877,-1.857833210661877,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.6000000000000001,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.4270899801661114,-2.4270899801661114,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.6000000000000001,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.9963467496703444,-2.9963467496703444,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.6000000000000001,0.8,ObservedRunwayOrder,Observed Runway Order,-3.5656035191745783,-3.5656035191745783,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.6000000000000001,0.9,ObservedRunwayOrder,Observed Runway Order,-4.134860288678811,-4.134860288678811,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.6000000000000001,1.0,ObservedRunwayOrder,Observed Runway Order,-4.704117058183045,-4.704117058183045,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.7000000000000001,0.0,ObservedRunwayOrder,Observed Runway Order,0.9884506368592916,0.9685806209225122,departure_blocked:CPSDelay_m2K8,0.019870015936779395,0.019870015936779395
+2026_03,medium,0.7000000000000001,0.1,ObservedRunwayOrder,Observed Runway Order,0.4191938673550578,0.4191938673550578,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.7000000000000001,0.2,ObservedRunwayOrder,Observed Runway Order,-0.15006290214917595,-0.15006290214917595,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.7000000000000001,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,-0.7193196716534098,-0.7193196716534098,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.7000000000000001,0.4,ObservedRunwayOrder,Observed Runway Order,-1.2885764411576435,-1.2885764411576435,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.7000000000000001,0.5,ObservedRunwayOrder,Observed Runway Order,-1.857833210661877,-1.857833210661877,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.7000000000000001,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.4270899801661114,-2.4270899801661114,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.7000000000000001,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.9963467496703444,-2.9963467496703444,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.7000000000000001,0.8,ObservedRunwayOrder,Observed Runway Order,-3.5656035191745783,-3.5656035191745783,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.7000000000000001,0.9,ObservedRunwayOrder,Observed Runway Order,-4.134860288678811,-4.134860288678811,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.7000000000000001,1.0,ObservedRunwayOrder,Observed Runway Order,-4.704117058183045,-4.704117058183045,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.8,0.0,ObservedRunwayOrder,Observed Runway Order,0.9884506368592916,0.9884506368592916,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.8,0.1,ObservedRunwayOrder,Observed Runway Order,0.4191938673550578,0.4191938673550578,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.8,0.2,ObservedRunwayOrder,Observed Runway Order,-0.15006290214917595,-0.15006290214917595,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.8,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,-0.7193196716534098,-0.7193196716534098,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.8,0.4,ObservedRunwayOrder,Observed Runway Order,-1.2885764411576435,-1.2885764411576435,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.8,0.5,ObservedRunwayOrder,Observed Runway Order,-1.857833210661877,-1.857833210661877,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.8,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.4270899801661114,-2.4270899801661114,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.8,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.9963467496703444,-2.9963467496703444,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.8,0.8,ObservedRunwayOrder,Observed Runway Order,-3.5656035191745783,-3.5656035191745783,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.8,0.9,ObservedRunwayOrder,Observed Runway Order,-4.134860288678811,-4.134860288678811,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.8,1.0,ObservedRunwayOrder,Observed Runway Order,-4.704117058183045,-4.704117058183045,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.9,0.0,ObservedRunwayOrder,Observed Runway Order,0.9884506368592916,0.9884506368592916,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.9,0.1,ObservedRunwayOrder,Observed Runway Order,0.4191938673550578,0.4191938673550578,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.9,0.2,ObservedRunwayOrder,Observed Runway Order,-0.15006290214917595,-0.15006290214917595,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.9,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,-0.7193196716534098,-0.7193196716534098,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.9,0.4,ObservedRunwayOrder,Observed Runway Order,-1.2885764411576435,-1.2885764411576435,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.9,0.5,ObservedRunwayOrder,Observed Runway Order,-1.857833210661877,-1.857833210661877,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.9,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.4270899801661114,-2.4270899801661114,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.9,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.9963467496703444,-2.9963467496703444,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.9,0.8,ObservedRunwayOrder,Observed Runway Order,-3.5656035191745783,-3.5656035191745783,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.9,0.9,ObservedRunwayOrder,Observed Runway Order,-4.134860288678811,-4.134860288678811,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,0.9,1.0,ObservedRunwayOrder,Observed Runway Order,-4.704117058183045,-4.704117058183045,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,1.0,0.0,ObservedRunwayOrder,Observed Runway Order,0.9884506368592916,0.9884506368592916,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,1.0,0.1,ObservedRunwayOrder,Observed Runway Order,0.4191938673550578,0.4191938673550578,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,1.0,0.2,ObservedRunwayOrder,Observed Runway Order,-0.15006290214917595,-0.15006290214917595,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,1.0,0.30000000000000004,ObservedRunwayOrder,Observed Runway Order,-0.7193196716534098,-0.7193196716534098,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,1.0,0.4,ObservedRunwayOrder,Observed Runway Order,-1.2885764411576435,-1.2885764411576435,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,1.0,0.5,ObservedRunwayOrder,Observed Runway Order,-1.857833210661877,-1.857833210661877,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,1.0,0.6000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.4270899801661114,-2.4270899801661114,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,1.0,0.7000000000000001,ObservedRunwayOrder,Observed Runway Order,-2.9963467496703444,-2.9963467496703444,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,1.0,0.8,ObservedRunwayOrder,Observed Runway Order,-3.5656035191745783,-3.5656035191745783,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,1.0,0.9,ObservedRunwayOrder,Observed Runway Order,-4.134860288678811,-4.134860288678811,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0
+2026_03,medium,1.0,1.0,ObservedRunwayOrder,Observed Runway Order,-4.704117058183045,-4.704117058183045,arrival_only:ObservedRunwayOrder | departure_blocked:ObservedRunwayOrder,0.0,0.0

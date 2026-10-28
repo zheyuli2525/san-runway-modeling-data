@@ -1,0 +1,5 @@
+month,policy,policy_display_name,metric,estimate,ci_lower_95,ci_upper_95,operating_date_clusters,bootstrap_reps,seed
+2026_02,CompletionGreedy,Completion Greedy,waiting_difference_sec_per_window,214.53700305810398,153.22265215797194,286.25194099064413,28,5000,8352026
+2026_02,CompletionGreedy,Completion Greedy,sequence_difference_share,0.268960244648318,0.23102167613808378,0.30669790597852103,28,5000,8352026
+2026_03,CompletionGreedy,Completion Greedy,waiting_difference_sec_per_window,301.1469281045752,237.24110454935533,378.6085806530214,31,5000,8352026
+2026_03,CompletionGreedy,Completion Greedy,sequence_difference_share,0.3244444444444444,0.29122764185855265,0.3585953145187339,31,5000,8352026
